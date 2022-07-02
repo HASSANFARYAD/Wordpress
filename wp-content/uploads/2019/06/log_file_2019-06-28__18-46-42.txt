@@ -1,0 +1,76 @@
+
+---Downloaded files---
+The import files for: Demo One were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://thethieleagency.com
+Data file = /home/sthiele081989/public_html/thethieleagency.com/wp-content/themes/seolounge/inc/import/content-1.xml
+Widget file = /home/sthiele081989/public_html/thethieleagency.com/wp-content/themes/seolounge/inc/import/widgets.wie
+Customizer file = not defined!
+Redux files:
+seolounge_theme_option -> /home/sthiele081989/public_html/thethieleagency.com/wp-content/themes/seolounge/inc/import/redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Widgets in Menu : 
+
+Navigation Menu - Essential - Imported
+Navigation Menu - Appearance - Imported
+Navigation Menu - Creative - Imported
+Navigation Menu - Modern - Imported
+Navigation Menu - Featured Services - Imported
+Navigation Menu -   - Imported
+Navigation Menu - SEO Whitepaper - Imported
+Text - &nbsp; - Imported
+
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+Search - Search - Imported
+Categories - Categories - Imported
+Recent Posts - Recent Posts - Imported
+Tag Cloud - Tags - Imported
+
+Footer | #1 : 
+
+Text - About Us - Imported
+
+Footer | #2 : 
+
+Navigation Menu - Important Links - Imported
+
+Footer | #3 : 
+
+Navigation Menu - Featured Services - Imported
+
+Footer | #4 : 
+
+Text - Contact Us - Imported
+
+Hamburger | Sidebar : 
+
+Text - No Title - Imported
+RadiantThemes Recent Posts With Thumbnail Widget - No Title - Imported
+RadiantThemes Contact Box - No Title - Imported
+RadiantThemes Social - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: seolounge_theme_option finished successfully!
+
+---pt-ocdi/after_import---
+
