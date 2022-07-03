@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Food &#8211; Restaurant Blog</title>
+	<title>Food &#8211; Blogs</title>
 	<atom:link href="http://localhost/wordpress-6.0/wordpress/category/food/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>Just another WordPress site</description>
+	<description></description>
 	<lastBuildDate>Sun, 14 Feb 2021 16:10:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
