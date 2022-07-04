@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Data as a Second Language</title>
-	<atom:link href="http://localhost/wordpress-6.0/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<title>learndsl &#8211; Data as a Second Language</title>
+	<atom:link href="http://localhost/wordpress-6.0/wordpress/author/learndsl/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Jul 2022 22:39:48 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2022/07/cropped-DSL_Icon_Purple-32x32.png</url>
-	<title>Data as a Second Language</title>
+	<title>learndsl &#8211; Data as a Second Language</title>
 	<link></link>
 	<width>32</width>
 	<height>32</height>
