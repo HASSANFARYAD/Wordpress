@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments on: Home	</title>
-	<atom:link href="http://localhost/wordpress-6.0/wordpress/home/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/home/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 04 Jul 2022 18:09:05 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Jul 2022 15:39:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
