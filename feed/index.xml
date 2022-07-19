@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Mon, 18 Jul 2022 01:54:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 19 Jul 2022 17:56:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>A/B testing</title>
 		<link>/a-b-testing/</link>
-					<comments>/a-b-testing/#respond</comments>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Mon, 18 Jul 2022 01:48:47 +0000</pubDate>
@@ -44,8 +43,6 @@
 <p class="has-medium-font-size">Is a statistical way of comparing two or more techniques—the &#8220;A&#8221; and the &#8220;B&#8221;—typically an incumbent against a new rival. A/B testing determine not only which technique performs better but also to understand whether the diﬀerence is statistically significant. A/B testing usually considers only two techniques using one measurement, but it can be applied to any finite number of techniques and measurements.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/a-b-testing/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
