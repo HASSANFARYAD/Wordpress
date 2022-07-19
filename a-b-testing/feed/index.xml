@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for Data as a Second Language	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Comments on: A/B testing	</title>
+	<atom:link href="/a-b-testing/feed/" rel="self" type="application/rss+xml" />
+	<link>/a-b-testing/</link>
 	<description></description>
-	<lastBuildDate>Tue, 19 Jul 2022 13:12:30 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Jul 2022 01:54:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
