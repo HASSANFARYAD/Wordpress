@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 19 Jul 2022 17:56:37 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Jul 2022 03:08:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Accuracy Score</title>
+		<link>/accuracy-score/</link>
+		
+		<dc:creator><![CDATA[learndsl]]></dc:creator>
+		<pubDate>Thu, 21 Jul 2022 03:08:47 +0000</pubDate>
+				<category><![CDATA[Dictionary Definition]]></category>
+		<guid isPermaLink="false">/?p=1055</guid>
+
+					<description><![CDATA[An accuracy score is an evaluation metric used to estimatesome machine learning model’s performance, and show the ratio of the numberof correct predictions compared to the total number of predictions.]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">An accuracy score is an evaluation metric used to estimate<br>some machine learning model’s performance, and show the ratio of the number<br>of correct predictions compared to the total number of predictions.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>A/B testing</title>
 		<link>/a-b-testing/</link>
 		
