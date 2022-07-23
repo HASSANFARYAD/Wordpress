@@ -12,7 +12,7 @@
 	<atom:link href="/author/learndsl/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 21 Jul 2022 03:08:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 Jul 2022 23:27:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,259 +28,212 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Accuracy Score</title>
-		<link>/accuracy-score/</link>
+		<title>Blending</title>
+		<link>/blending/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 21 Jul 2022 03:08:47 +0000</pubDate>
-				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=1055</guid>
+		<pubDate>Fri, 22 Jul 2022 23:27:47 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1129</guid>
 
-					<description><![CDATA[An accuracy score is an evaluation metric used to estimatesome machine learning model’s performance, and show the ratio of the numberof correct predictions compared to the total number of predictions.]]></description>
-										<content:encoded><![CDATA[
-<p class="has-medium-font-size">An accuracy score is an evaluation metric used to estimate<br>some machine learning model’s performance, and show the ratio of the number<br>of correct predictions compared to the total number of predictions.</p>
+					<description><![CDATA[blending is a process whereby big data from multiple sources are merged into a single data warehouse or data set. It concerns not merely the merging of diﬀerent file formats or disparate sources of data but also diﬀerent varieties of data. Data blending helps business analysts with the expansion of data that they need to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>blending is a process whereby big data from multiple sources are<br />
+merged into a single data warehouse or data set. It concerns not merely the<br />
+merging of diﬀerent file formats or disparate sources of data but also diﬀerent<br />
+varieties of data. Data blending helps business analysts with the expansion of<br />
+data that they need to make critical business decisions based on good<br />
+quality business intelligence.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>A/B testing</title>
-		<link>/a-b-testing/</link>
+		<title>Binomial distribution</title>
+		<link>/binomial-distribution/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Mon, 18 Jul 2022 01:48:47 +0000</pubDate>
-				<category><![CDATA[Dictionary Definition]]></category>
-		<category><![CDATA[A/B testing]]></category>
-		<category><![CDATA[multivariate testing]]></category>
-		<guid isPermaLink="false">/?p=878</guid>
+		<pubDate>Fri, 22 Jul 2022 23:12:58 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1127</guid>
 
-					<description><![CDATA[Is a statistical way of comparing two or more techniques—the &#8220;A&#8221; and the &#8220;B&#8221;—typically an incumbent against a new rival. A/B testing determine not only which technique performs better but also to understand whether the diﬀerence is statistically significant. A/B testing usually considers only two techniques using one measurement, but it can be applied to [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p class="has-medium-font-size">Is a statistical way of comparing two or more techniques—the &#8220;A&#8221; and the &#8220;B&#8221;—typically an incumbent against a new rival. A/B testing determine not only which technique performs better but also to understand whether the diﬀerence is statistically significant. A/B testing usually considers only two techniques using one measurement, but it can be applied to any finite number of techniques and measurements.</p>
+					<description><![CDATA[A distribution of outcomes of independent events with two mutually exclusive possible outcomes, a fixed number of trials, and a constant probability of success. This is a discrete probability distribution, as opposed to continuous—for example, instead of graphing it with a line, you would use a histogram, because the potential outcomes are a discrete set [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>A distribution of outcomes of independent events with<br />
+two mutually exclusive possible outcomes, a fixed number of trials, and a<br />
+constant probability of success. This is a discrete probability distribution, as<br />
+opposed to continuous—for example, instead of graphing it with a line, you<br />
+would use a histogram, because the potential outcomes are a discrete set of<br />
+values. As the number of trials represented by a binomial distribution goes up, if<br />
+the probability of success remains constant, the histogram bars will get thinner,<br />
+and it will look more and more like a graph of normal distribution.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Automated Machine Learning Tools</title>
-		<link>/automated-machine-learning-tools/</link>
+		<title>Big Data</title>
+		<link>/big-data/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Sun, 14 Feb 2021 16:10:24 +0000</pubDate>
+		<pubDate>Fri, 22 Jul 2022 23:12:36 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://zakra-simple-blog.sites.qsandbox.com/?p=492</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1125</guid>
 
-					<description><![CDATA[By using most of the modelling functions required to develop and implement machine learning models, automated learning enables business users to apply machine learning solutions more easily, Introduction By using most of the modelling functions required to develop and implement machine learning models, automated learning enables business users to apply machine learning solutions more easily, [&#8230;]]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="492" class="elementor elementor-492">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-f52c7e4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f52c7e4" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7186db69" data-id="7186db69" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-b14476a elementor-widget elementor-widget-text-editor" data-id="b14476a" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.6.7 - 03-07-2022 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><!-- wp:paragraph --></p><p>By using most of the modelling functions required to develop and implement machine learning models, automated learning enables business users to apply machine learning solutions more easily,</p><h1><a name="_Toc81603346"></a><strong><u>Introduction</u></strong></h1><p>By using most of the modelling functions required to develop and implement machine learning models, automated learning enables business users to apply machine learning solutions more easily, thus allowing organizational data scientists to focus on more complex problems. These tools, also known as AutoML<a href="#_ftn1" name="_ftnref1">[1]</a> tools, improve the monitored, predictable learning algorithms of a given database machine. Many AutoML tools are designed to work with structured table data, such as a data table.</p><p>In 1959, Arthur Samuel<a href="#_ftn2" name="_ftnref2">[2]</a> described machine learning as a computer-assisted reading ability. By doing this, this means finding an algorithm rather than extracting patterns from an existing data set and then using these patterns to create a predictive model that will effectively optimize new data. Since then, a wide range of machine learning has been developed, giving scientists and engineers a wide range of options, and helping them build amazing applications.</p><p>Some of the companies that offer these tools are as follows.</p><ul><li>DataRobot</li><li>Amazon Sagemaker</li><li>Google AutoML</li></ul><h1><a name="_Toc81603347"></a><strong><u>DataRobot</u></strong></h1><p>DataRobot developed automated learning that was a completely new category of software as a result. They have invested more than 1.4 million hours of innovative engineering and scientific practices in this market-leading product. Here, the Automated Machine Learning product supports all the steps needed to prepare, build, deploy, monitor, and maintain powerful AI applications on a business scale. DataRobot provides fully descriptive learning tools using visual interpersonal comprehension and automated model documentation with plans that describe each step of the modeling process and the algorithms used. You can test any model using our Lift Chart<a href="#_ftn3" name="_ftnref3">[3]</a>, ROC Curve<a href="#_ftn4" name="_ftnref4">[4]</a>, Confusion Matrix<a href="#_ftn5" name="_ftnref5">[5]</a>, and more.</p><h1><a name="_Toc81603348"></a><strong><u>Amazon Sagemaker</u></strong></h1><p>Speaking of Amazon Sagemaker, it uses a single API call or a few clicks in Amazon SageMaker Studio. SageMaker Autopilot starts by checking your dataset and then uses the number of participants to find the right combination of pre-processing data steps, machine learning algorithms, and hyperparameters. After that, it uses this combination to train the Inference Pipeline, which you can easily use either in real-time storage or in batch use. As is often the case with Amazon SageMaker, all of this happens on a fully managed platform.</p><h1><a name="_Toc81603349"></a><strong><u>Google AutoML</u></strong></h1><p>This tool empowers engineers with limited mechanical experience to train high-quality models tailored to the needs of their business. Google AutoML is chosen by a wide range of people as it enhances data from your data with Google Cloud machine learning capabilities and advanced analytics capabilities. It works in a clean cloud in the industry. The electricity used to launch Google Cloud products and services is aligned with 100% renewable energy. Additionally, Google Cloud protects your data, applications, infrastructure, and customers from fraud, spam, and harassment with the same infrastructure and security services used by Google. Google Cloud network, data storage, and computer services offer encryption of data, encryption at leisure, travel, and use. Advanced security tools support privacy and data security.</p><h1><a name="_Toc81603350"></a><strong><u>Conclusion</u></strong></h1><p>Automated machine learning tools enhance the productivity of data professionals by performing any repetitive tasks related to ML and help them focus on other issues. They also minimize human errors in ML models that occur mainly due to manual actions. They can make machine learning accessible to all users, thereby improving the power-sharing process.</p><p>Technology is maturing and business organizations can use it to their advantage in the following ways:</p><ul><li>Real-time Business Decision Making.</li><li>Finishing Handicrafts.</li><li>Improving network security and performance.</li><li>Developed Models and Businesses.</li><li>Reducing Operating Costs.</li></ul><p>Therefore, it is time to start thinking about it and how it can simplify the work of data scientist. It will save you a lot of time in predicting the best algorithm and problem-solving parameters.</p><p><a href="#_ftnref1" name="_ftn1">[1]</a> Automated machine learning (AutoML) is a method that automates the application of machine learning (ML) models to real-world situations.</p><p><a href="#_ftnref2" name="_ftn2">[2]</a> Arthur Lee Samuel was a founder in the fields of computer games and AI in the United States of America. In 1959, he introduced the term &#8220;machine learning.&#8221;</p><p><a href="#_ftnref3" name="_ftn3">[3]</a> A lift chart visualises the progress that a mining model makes when compared to a random guess and quantifies the improvement in terms of a lift score.</p><p><a href="#_ftnref4" name="_ftn4">[4]</a> A receiver operating characteristic curve (ROC curve) is a graph that depicts a classification model&#8217;s performance across all categorization thresholds.</p><p><a href="#_ftnref5" name="_ftn5">[5]</a> It is a special type of table arrangement that enables visualisation of an algorithm&#8217;s performance, often a supervised learning algorithm.</p><p><!-- /wp:paragraph --></p>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		]]></content:encoded>
+					<description><![CDATA[As this has become a popular marketing buzz phrase, definitions have proliferated, but in general, it refers to the ability to work with collections of data that had been impractical before because of their volume, velocity, and variety (“the three Vs”). A key driver of this new ability has been easier distribution of storage and [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>As this has become a popular marketing buzz phrase, definitions<br />
+have proliferated, but in general, it refers to the ability to work with collections of<br />
+data that had been impractical before because of their volume, velocity, and<br />
+variety (“the three Vs”). A key driver of this new ability has been easier<br />
+distribution of storage and processing across networks of inexpensive<br />
+commodity hardware using technology such as Hadoop instead of requiring<br />
+larger, more powerful individual computers. The work done with these large<br />
+amounts of data often draws on data science skills.</p>
+]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>The Perfect Data Science Laptop in 2021</title>
-		<link>/the-perfect-data-science-laptop-in-2021/</link>
+		<title>Bias-Variance Tradeoﬀ</title>
+		<link>/bias-variance-tradeo%ef%ac%80/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 04 Feb 2021 06:45:44 +0000</pubDate>
+		<pubDate>Fri, 22 Jul 2022 23:12:13 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://zakra-simple-blog.sites.qsandbox.com/?p=35</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1123</guid>
 
-					<description><![CDATA[One of the most overlooked aspects when starting to learn data science is which laptop to choose. This is a major choice to think about as many of the techniques that are used when training machine learning models are going to be dependant on the capabilities of the equipment you choose. Needless is to say [&#8230;]]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="562" class="elementor elementor-562">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-70e27934 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="70e27934" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8c7ace" data-id="8c7ace" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-55a6f3d2 elementor-widget elementor-widget-text-editor" data-id="55a6f3d2" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-One of the most overlooked aspects when starting to learn data science is which laptop to choose. This is a major choice to think about as many of the techniques that are used when training machine learning models are going to be dependant on the capabilities of the equipment you choose. Needless is to say that this can become very easily a daunting task as we start to enumerate the things that we need to take into account, as well as the myriad of possibilities that are out there to fill our needs. The basic components that we need to take a look at are the processor, the RAM, Storage, and the GPU.
-<h1>The processor: Need for Speed</h1>
-<p>The processor is the most crucial part of our laptop as it will be the component that will handle our computations. There are several considerations in which we need to look at this, as the performance will be heavily influenced by the type of architecture (x86 or ARM), the number of cores (either physical or virtual), cache memory, and brand. The first consideration about the choice of processor is that it’s not going to be the same to choose between an x86 or ARM architecture. ARM architecture was originally designed for mobile devices to optimize energy usage, but eventually got into laptops and most manufacturers are jumping into that trend. The most noticeable ARM processor that we consider for data science applications is the M1 processor that is being used in the latest MackBooks. Given the difference in architecture, an internal optimization process is required to be compatible with applications designed for processors with x86. In some applications, this will slow down the performance of the processor, but in general, the performance comparison of M1 chips used in MacBook Air and MacBook Pro laptops shows that the performance is comparable with the flagship processors from Intel like the I7 1165g7 or the AMD Ryzen 5950x. Great gaming laptops like the Razer Blade 14 use AMD Ryzen 9 5900HX processors which can have options for 8 Cores allowing up to 16 Threads, with a 3.3GHz base clock speed and a 4.6GHz max boost that can be used during heavy computations. In the same range of processing power but using Intel we can find the Dell Alienware X17, which has an 11th Gen Intel i7 11800H with 8 cores, a massive 24MB L3 cache, and up to 4.6GHz of clock speed. Besides the raw clock speed and the number of threads used in a processor, we should also consider the number of cores and an available number of threads that the processor can manage. In data science and data engineering in general, some operations can be parallalelized using multi-thread processes, which means that each core of the processor, either physical or simulated, will receive a chunk of the data to work on. After the processing is done, we can then retrieve the results and aggregate them, which can massively increase the speed of our processes, especially when dealing with complicated feature engineering on big datasets, or when we work with unstructured data. Finally, the other important aspect to consider is the cache memory. Cache memory is used in the processor as an intermediate memory between RAM and the actual processing. This memory is measured in MB and the least that we can consider is 8 MB, which is a threshold greatly surpassed in processors like the Intel i9 and i7 which have 24 MB of cache memory. Now that we have a clear understanding of our requirements for the processor, we can move to the next requirement.</p>
-<h1>The RAM: At the tip of your fingers</h1>
-<p>When tackling common data science courses most of the time you will spend quite a lot of time working with tools like Pandas, an excellent python library that is used for tabular data. The problem is that this library has one big bottleneck, all the information that we read using it is loaded into the RAM. This might be very problematic when we are working with files in the size of gigabytes as we will need to work on chunks rather than with the entire dataset. This is not the only task that will be limited to the amount of available RAM. Tasks like deep learning generally imply a training step in which the algorithm is exposed to data. The bigger the size of data that can be exposed to at the same time will dictate how much time the entire learning process will take. After mentioning this you might be already asking yourself which is the right amount of RAM that my laptop should have, and which are other things to take into account. First of all, we need to say that in 2021 the minimum amount of RAM that your laptop should have is 8 GB. I might say that is 4 GB, but just the operating system will eat 3 GB, leaving you just 1 GB to work with, so let’s keep the minimum at 8. If you are just starting and you are a student on a budget, you have good options like the Lenovo Laptop IdeaPad 5, which already comes with 16 Gb of RAM and a great i7 processor. It is also important to the data transfer speed of the RAM, which at least should be 2666 MHz. Most recent DDR-4 RAMs will go as much as 3200 MHz of bus speed and logically, as faster the bus speed, the faster the processing will be.</p>
-<h1>The Storage: Size and Speed</h1>
-<p>Storage is a topic that is commonly relegated while discussing the requirements of Data Science laptops, although it has a great impact. Let’s get back to the example that we have mentioned before, which was reading big files for machine learning and analysis of tabular data. One of how we can overcome this bottleneck is by using Dask, a python library that reads the data directly from the storage, rather than loading it into memory. So it all comes up with the strategy you choose to deal with larger files. We can come up with a strategy in which we process data in batches, reading from the local storage, therefore, the choices we make about the storage and the read speed will have a great impact on performance. So what are the things to consider and the options we have in terms of storage? Most important than the amount of storage itself is the technology of the storage. It is highly recommended to use SSD storage as the speed at which it will read the data will be up to 10 times faster than a common HDD. If the laptop you’ve selected doesn’t have an SSD hard drive you can update it easily. A good option in case that happens would be the Kingston SA400S37/480G A400 which has 480 GB which is more than enough. If you want to go further, you can get the Samsung 870 Qvo, which has 1TB and a good price-storage ratio. If you want all the power available, you can choose Kingston NV1 NVMe, which is 4 times faster than common SSD hard drives.</p>
-<h1>The GPU: Enabling Deep Learning</h1>
-<p>Most deep learning applications require intensive computation during training. To speed things up, developers have enabled the option of using Graphics Cards to accelerate the process of training. With the introduction of CUDA, which is a technology that can be used in Windows and Linux machines, we can speed up the training in most of the deep learning frameworks. While in practice there are only two manufacturers of graphic cards which are Nvidia and AMD, it would be recommendable to get an Nvidia GPU because CUDA was developed by Nvidia, and it only runs on their GPUs. So if you are planning to undertake deep learning tasks it is advisable to start considering Nvidia GPUs from the GTX 1650 onwards. The MSI GF75 is a good option when you are on a budget. It comes with a GTX 1650, an Intel i7, and 16 GB RAM. If you want to go further the ASUS ROG Zephyrus S15 GX502LWS-HF020T comes with a powerful Intel Core i7-10750H processor with an NVIDIA GeForce RTX 2070 SUPER graphics card, a great 32GB DDR4 RAM, and a 1TB SSD.</p>
-<h1>Conclusion</h1>
-<p>At the end of the day, the best way to plan your Data Science notebook is to understand the future requirements that you will need to tackle. The answer lies in a balance between your needs and the budget that you might be working it. Nevertheless, there are good options out there, and it’s important to choose them wisely, as they will impact your performance in your work and career. As a rule of thumb, pick the best processor and the best RAM possible, then select a good SSD and when possible, an Nvidia GPU. After that, you will be on the right track to succeed in your data science projects.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		]]></content:encoded>
+					<description><![CDATA[The bias-variance tradeoﬀ is the tradeoﬀ between bias and variance when creating machine learning models. Bias and variance are types of prediction error when creating machine learning models where a high bias indicates model underfitting, and high variance indicates model overfitting. Minimizing both of these factors to an optimal level decreases the overall error in [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>The bias-variance tradeoﬀ is the tradeoﬀ<br />
+between bias and variance when creating machine learning models. Bias and<br />
+variance are types of prediction error when creating machine learning models<br />
+where a high bias indicates model underfitting, and high variance indicates<br />
+model overfitting. Minimizing both of these factors to an optimal level decreases<br />
+the overall error in prediction.</p>
+]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Best Universities in U.S to study Data Science in 2021</title>
-		<link>/best-universities-in-u-s-to-study-data-science-in-2021/</link>
+		<title>Bias</title>
+		<link>/bias/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 04 Feb 2021 06:45:41 +0000</pubDate>
+		<pubDate>Fri, 22 Jul 2022 23:11:53 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://zakra-simple-blog.sites.qsandbox.com/?p=34</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1121</guid>
 
-					<description><![CDATA[In today’s world, Data Science has become a buzzing keyword and many large enterprises and industry leaders are shifting their focus towards Artificial Intelligence, Machine Learning or Data Sciences. This paradigm shift in industry has created a huge demand for Data Scientists and they have more attractive salary packages than traditional software engineers. According to [&#8230;]]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="34" class="elementor elementor-34">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-7ec60889 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7ec60889" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-669261b2" data-id="669261b2" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-2194ea88 elementor-widget elementor-widget-text-editor" data-id="2194ea88" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<!-- wp:paragraph -->
-<p>In today’s world, Data Science has become a buzzing keyword and many large enterprises and industry leaders are shifting their focus towards Artificial Intelligence, Machine Learning or Data Sciences. This paradigm shift in industry has created a huge demand for Data Scientists and they have more attractive salary packages than traditional software engineers. According to U.S. Bureau of Labor Statistics, an average data scientist earns $100,560 per year. While, a Java developer or any other programming language developer earns around $72,000 per year. Besides, an attractive salary package, Data Science has a lot to offer in terms of learning and innovation opportunities. Let’s dwell on the best U.S universities to study Data Sciences in 2021.</p>
-<ol>
-<li style="list-style-type: none;">
-<ol>
-<li><strong>Massachusetts Institute of Technology</strong></li>
-</ol>
-</li>
-</ol>
-<p><img src="/wp-content/uploads/2022/07/1.jpg" /></p>
-<p> </p>
-<p>Founded in 1861, Massachusetts Institute of Technology is one of the best and top-ranked university for data sciences. According to <strong>QS Ranking, </strong>MIT is the number one university for year 2021-2022. It offers both Bachelors and Masters in Data Sciences.</p>
-<p><strong> </strong></p>
-<p><strong>Undergraduate Data Sciences Degree Programs:</strong></p>
-<ul>
-<li><strong>Bachelor of Science in Computer Science, Economics, and Data Science:</strong> It is jointly offered by Department of Electrical Engineering and Computer Science and the Department of Economics. For complete requirements and roadmap of this program please click <a href="http://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/">here</a>.</li>
-</ul>
-<p><strong>Undergraduate Data Sciences Minor Programs:</strong></p>
-<ul>
-<li><strong>Minor in Statistics and Data Science</strong>: It is an interdisciplinary program offered by MIT. For complete requirements and roadmap of this program please click <a href="http://catalog.mit.edu/interdisciplinary/undergraduate-programs/minors/statistics-data-science/">here</a>.</li>
-</ul>
-<p><strong>Masters of Data Sciences Programs: </strong></p>
-<ul>
-<li><strong>MicroMasters Program in Statistics and Data Science:</strong> This course is offered by MITx and the MIT Institute for Data, Systems, and Society (IDSS). It is an <strong>online </strong>course and anyone can enroll in this program. It is specially designed for those people who want rigorous data sciences learning and hands-on experience without leaving their jobs. For complete requirements and roadmap of this program please click <a href="https://micromasters.mit.edu/ds/">here</a>.</li>
-</ul>
-<ol start="2">
-<li style="list-style-type: none;">
-<ol start="2">
-<li><strong>Harvard University</strong></li>
-</ol>
-</li>
-</ol>
-<p><img src="/wp-content/uploads/2022/07/2.jpg" /></p>
-<p>Another top-ranking Ivy League university with world best faculty, diverse community and carefully curated courses is Harvard University. It was founded in 1636 as Harvard college and one of the oldest university. Undoubtedly, it’s one of the most prestigious institute to fulfil your data science dreams. It offers the following courses.</p>
-<p><strong>Masters in Data Science</strong></p>
-<ul>
-<li><strong>Data Science Graduate Program:</strong> It is offered by Harvard Extension School. To secure admission in this program, your performance in two specific Harvard Extension courses plays the key role. The format of this program is <strong>online for 2021-2022. </strong>After successfully finishing this program you will earn “Master of Liberal Arts (ALM) in Extension Studies, field: Data Science” degree. For more information, related to this program please click <a href="https://extension.harvard.edu/academics/programs/data-science-graduate-program/#outcomes">here</a>.</li>
-</ul>
-<p><strong>Online Data Science Courses</strong></p>
-<ul>
-<li>Apart from full-fledged degrees, Harvard offers 17 online data science courses which are as good as data science courses. Some courses are free as well and typically takes 5-8 weeks to complete. Following are the <strong>free courses offered by Harvard. </strong>
-<ol>
-<li><a href="https://online-learning.harvard.edu/course/fundamentals-tinyml?delta=0">Fundamentals of TinyML</a></li>
-<li><a href="https://online-learning.harvard.edu/course/applications-tinyml?delta=0">Applications of TinyML</a></li>
-<li><a href="https://online-learning.harvard.edu/course/deploying-tinyml?delta=0">Deploying TinyML</a></li>
-<li><a href="https://online-learning.harvard.edu/course/introduction-digital-humanities?delta=2">Introduction to Digital Humanities</a></li>
-<li><a href="https://online-learning.harvard.edu/course/data-science-wrangling?delta=3">Data Science: Wrangling</a></li>
-<li><a href="https://online-learning.harvard.edu/course/data-science-linear-regression?delta=3">Data Science: Linear Regression</a></li>
-<li><a href="https://online-learning.harvard.edu/course/data-science-machine-learning?delta=3">Data Science: Machine Learning</a></li>
-<li><a href="https://online-learning.harvard.edu/course/data-science-capstone?delta=3">Data Science: Capstone</a></li>
-<li><a href="https://online-learning.harvard.edu/course/data-science-visualization?delta=3">Data Science: Visualization</a></li>
-<li><a href="https://online-learning.harvard.edu/course/data-science-probability?delta=2">Data Science: Probability</a></li>
-<li><a href="https://online-learning.harvard.edu/course/data-science-inference-and-modeling?delta=1">Data Science: Inference and Modeling</a></li>
-<li><a href="https://online-learning.harvard.edu/course/data-science-productivity-tools?delta=3">Data Science: Productivity Tools</a></li>
-<li><a href="https://online-learning.harvard.edu/course/data-science-r-basics?delta=3">Data Science: R Basics</a></li>
-</ol>
-</li>
-</ul>
-<p>Following are the <strong>paid Data Sciences courses</strong> offered by Harvard University.</p>
-<ol>
-<li style="list-style-type: none;">
-<ol>
-<li><a href="https://online-learning.harvard.edu/course/data-science-business?delta=0">Data Science for Business</a> ($1600, 4 weeks long)</li>
-<li><a href="https://online-learning.harvard.edu/course/designing-and-implementing-ai-solutions-health-care?delta=0">Designing and Implementing AI Solutions for Health Care</a> ($2150, 2 weeks long)</li>
-<li><a href="https://online-learning.harvard.edu/course/data-privacy-and-technology?delta=0">Data Privacy and Technology</a> ($1,600, 5 weeks long)</li>
-<li><a href="https://online-learning.harvard.edu/course/data-visualization-communicating-data-and-complex-ideas-visually?delta=0">Data Visualization: Communicating Data and Complex Ideas Visually</a> ($2150)</li>
-<li><strong>Stanford University </strong></li>
-</ol>
-</li>
-</ol>
-<p><img src="/wp-content/uploads/2022/07/3.jpg" /></p>
-<p>Stanford University is yet another exceptional university which offers variety of options for data science learners. It is a private university and amasses almost more than 17 thousand students. Its acceptance rate is only 4% which implies that it only chooses the best out of best.</p>
-<p><strong>Undergraduate Data Science Programs:</strong></p>
-<ul>
-<li><strong>The Data Science Minor program</strong> is especially designed for those students who have major in humanities and Social Sciences but want to gain practical exposure to Data Sciences. For more information regarding this degree program please click <a href="https://statistics.stanford.edu/data-science-minor">here</a>.</li>
-</ul>
-<p><strong>Masters Programs:</strong></p>
-<ul>
-<li><strong>S. in Statistics: Data Science: </strong>This program is offered by Stanford’s Statistics School of Humanities and Sciences. This program is <strong>not offered online. </strong>For more information regarding this degree program please click <a href="https://statistics.stanford.edu/academic-programs/graduate-programs/ms-statistics-data-science">here</a>.</li>
-</ul>
-<ol start="4">
-<li style="list-style-type: none;">
-<ol start="4">
-<li><strong>Yale University</strong></li>
-</ol>
-</li>
-</ol>
-<p><img src="/wp-content/uploads/2021/02/s.jpg" /></p>
-<p>The list would be incomplete without mentioning the third oldest Ivy League university of United States i.e. Yale University. Yale is just not an institute but also a complete brand which gives you a chance to study within a diverse community and under the mentorship of top faculty. It offers following Data Sciences programs.</p>
-<p><strong>Bachelors Program in Data Sciences: </strong></p>
-<ul>
-<li><strong>A. in Statistics and Data Science: </strong>This undergraduate programs is offered by Department of Statistics and Data Science. This program will give enough exposure and hands-on experience of data science for pursuing a graduate degree in data sciences. For more information, regarding this course please click <a href="http://catalog.yale.edu/ycps/subjects-of-instruction/statistics/">here</a>.</li>
-</ul>
-<p><strong>Masters and PhD Programs</strong></p>
-<ul>
-<li><strong>The terminal M.A. and M.S. programs: </strong>These programs are offered by Department of Statistics and Data Science. These programs are open for anyone outside of Yale as well. For more information, related to these programs please click <a href="https://statistics.yale.edu/academics/terminal-ma-program">here</a>.</li>
-<li><strong>D. PROGRAM: </strong>This PhD programs is also offered by Department of Statistics and Data Science. The main areas of focus are statistical theory, probability theory, information theory, bioinformatics and genetics, classification, data mining and machine learning, neural nets, network science etc. For more information, related to these programs please click <a href="https://statistics.yale.edu/academics/phd-program">here</a>.</li>
-</ul>
-<ol start="5">
-<li style="list-style-type: none;">
-<ol start="5">
-<li><strong>University of California Berkeley</strong></li>
-</ol>
-</li>
-</ol>
-<p><img src="/wp-content/uploads/2022/07/5.jpg" /></p>
-<p>UC Berkeley is another one of the most prestigious institutes to pursue your data science interests. According to QS Ranking 2021, its rank 4<sup>th</sup> worldwide and 1<sup>st</sup> nationally. It’s a public land-grant university and has a fairly good acceptance rate i.e. 16%. It offers wide variety of undergraduate and graduate data sciences programs.</p>
-<p><strong>Undergraduate Programs</strong></p>
-<p>For undergraduate programs, UC Berkeley offers degrees both with data science as a major and a minor.</p>
-<ul>
-<li><strong>Data Science B.A. degree</strong>: It is offered as a data science major and offered by College of Letters &amp; Science. For more information, related to this programs please click <a href="https://data.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major">here</a>.</li>
-<li><strong>Data Science Minor: </strong>It is also offered by College of Letters &amp; Science. You need to declare your minor and all undergraduate students (at UC Berkeley) can opt this except Data Science B.A. degree students<strong>. </strong>For more information, related to this programs please click <a href="https://data.berkeley.edu/academics/data-science-undergraduate-studies/data-science-minor">here</a><strong>.</strong></li>
-</ul>
-<p><strong>Master’s Program in Data Sciences</strong></p>
-<ul>
-<li><strong>Online Master’s in Data Science: </strong>It is an online master’s program and based on various fields including computer science, social sciences, statistics, management, and law. It provides three paths for completing this course i.e. accelerated, standard, or decelerated which students can choose as per their convenience. For more information, related to this programs please click <a href="https://ischoolonline.berkeley.edu/data-science/">here</a>.</li>
-<li><strong>Masters of Engineering &#8211; Data Science and Systems Concentration: </strong>This program is offered by Berkeley Electrical Engineering and Computer Sciences school. It is an on-campus program and typically completed in one year. For more information, related to this programs please click <a href="https://eecs.berkeley.edu/academics/graduate/industry-programs/meng">here</a>.</li>
-<li><strong>Masters of Information and Data Science: </strong>This program is offered by Berkeley School of Information. As per UC Berkeley, the program starts thrice throughout the year and applications are screened on rolling basis. For more information, related to this programs please click <a href="https://datascience.berkeley.edu/">here</a>.</li>
-<li><strong>Master of Engineering in Industrial Engineering &amp; Operations Research &#8211; Data-driven Decision Analytics Track: </strong>This program is offered by Berkeley Fung Institute for Engineering Leadership school. It is an on-campus program and taught in evening classes. For more information, related to this programs please click <a href="https://funginstitute.berkeley.edu/programs-centers/data-driven-decision-analytics/">here</a>.</li>
-</ul>
-<p><strong>Closing Thoughts:</strong></p>
-<p>We are currently living in 4<sup>th</sup> industrial revolution and due to huge volumes of data industries are inclined towards creating “value” with the help of data. So, the future belongs to data science. The data science field has a lot of employment and entrepreneurship opportunities available. So, if you have interest in mathematics, computer and statistics then you should not think twice before opting data sciences as your undergraduate, graduate or PhD option.</p>
-<!-- /wp:paragraph -->						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		]]></content:encoded>
+					<description><![CDATA[bias is a learner’s tendency to consistently learn the same wrong thing. Variance is the tendency to learn random things irrespective of the real signal. It’s easy to avoid overfitting (variance) by falling into the opposite error of underfitting (bias). Simultaneously avoiding both requires learning a perfect classifier, and short of knowing it in advance [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>bias is a learner’s tendency to consistently learn the same wrong thing.<br />
+Variance is the tendency to learn random things irrespective of the real signal.<br />
+It’s easy to avoid overfitting (variance) by falling into the opposite error of<br />
+underfitting (bias). Simultaneously avoiding both requires learning a perfect<br />
+classifier, and short of knowing it in advance there is no single technique that will<br />
+always do best (no free lunch).</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bernoulli trial</title>
+		<link>/bernoulli-trial/</link>
+		
+		<dc:creator><![CDATA[learndsl]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2022 23:11:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1119</guid>
+
+					<description><![CDATA[Bernoulli trial or binomial trial is a random experiment with exactly two possible outcomes, &#8220;success&#8221; and &#8220;failure&#8221;, in which the probability of success is the same every time the experiment is conducted.]]></description>
+										<content:encoded><![CDATA[<p>Bernoulli trial or binomial trial is a random experiment with<br />
+exactly two possible outcomes, &#8220;success&#8221; and &#8220;failure&#8221;, in which the probability<br />
+of success is the same every time the experiment is conducted.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bernoulli distribution</title>
+		<link>/bernoulli-distribution/</link>
+		
+		<dc:creator><![CDATA[learndsl]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2022 23:11:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1117</guid>
+
+					<description><![CDATA[Bernoulli distribution, is the discrete probability distribution of a random variable which takes the value 1 with probability p and the value 0 with probability q = 1 − p. In other words, it can be thought of as a model for the set of possible outcomes of any single experiment that asks a yes–no [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Bernoulli distribution, is the discrete probability<br />
+distribution of a random variable which takes the value 1 with probability p and<br />
+the value 0 with probability q = 1 − p. In other words, it can be thought of as a<br />
+model for the set of possible outcomes of any single experiment that asks<br />
+a yes–no question.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bayesian network</title>
+		<link>/bayesian-network/</link>
+		
+		<dc:creator><![CDATA[learndsl]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2022 23:10:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1115</guid>
+
+					<description><![CDATA[Also, Bayes net. Bayesian networks are graphs that represent the relationship between random variables for a given problem. These graphs aid in performing reasoning or decision making in the face of uncertainty. Such reasoning relies heavily on Bayes’ rule. These networks are represented as graphs in which the link between any two nodes is assigned [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Also, Bayes net. Bayesian networks are graphs that<br />
+represent the relationship between random variables for a given problem. These<br />
+graphs aid in performing reasoning or decision making in the face of uncertainty.<br />
+Such reasoning relies heavily on Bayes’ rule. These networks are represented as<br />
+graphs in which the link between any two nodes is assigned a value<br />
+representing the probabilistic relationship between those nodes.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bayes&#8217; Theorem</title>
+		<link>/bayes-theorem/</link>
+		
+		<dc:creator><![CDATA[learndsl]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2022 23:10:10 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1113</guid>
+
+					<description><![CDATA[Also, Bayes&#8217; Rule. An equation for calculating the probability that something is true if something potentially related to it is true. If P(A) means the probability that A is true and P(A&#124;B) means the probability that A is true if B is true, then Bayes&#8217; Theorem tells us that P(A&#124;B) = (P(B&#124;A)P(A)) / P(B). This [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Also, Bayes&#8217; Rule. An equation for calculating the probability<br />
+that something is true if something potentially related to it is true. If P(A) means<br />
+the probability that A is true and P(A|B) means the probability that A is true if B is<br />
+true, then Bayes&#8217; Theorem tells us that P(A|B) = (P(B|A)P(A)) / P(B). This is useful<br />
+for working with false positives—for example, if x% of people have a disease,<br />
+the test for it is correct y% of the time, and you test positive, Bayes&#8217; Theorem<br />
+helps calculate the odds that you actually have the disease. The theorem also<br />
+makes it easier to update a probability based on new data, which makes it<br />
+valuable in the many applications where data continues to accumulate. Named<br />
+for eighteenth-century English statistician Thomas Bayes.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bagging</title>
+		<link>/bagging/</link>
+		
+		<dc:creator><![CDATA[learndsl]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2022 23:09:49 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1111</guid>
+
+					<description><![CDATA[It comes from bootstrap aggregating, is a machine learning ensemble meta-algorithm designed to improve the stability and accuracy of machine learning algorithms used in statistical classification and regression.]]></description>
+										<content:encoded><![CDATA[<p>It comes from bootstrap aggregating, is a machine learning<br />
+ensemble meta-algorithm designed to improve the stability and accuracy<br />
+of machine learning algorithms used in statistical classification and regression.</p>
+]]></content:encoded>
 					
 		
 		
