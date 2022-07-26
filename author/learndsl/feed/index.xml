@@ -33,7 +33,7 @@
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Fri, 22 Jul 2022 23:27:47 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Dictionary Definition]]></category>
 		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1129</guid>
 
 					<description><![CDATA[blending is a process whereby big data from multiple sources are merged into a single data warehouse or data set. It concerns not merely the merging of diﬀerent file formats or disparate sources of data but also diﬀerent varieties of data. Data blending helps business analysts with the expansion of data that they need to [&#8230;]]]></description>
@@ -54,7 +54,7 @@ quality business intelligence.</p>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Fri, 22 Jul 2022 23:12:58 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Dictionary Definition]]></category>
 		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1127</guid>
 
 					<description><![CDATA[A distribution of outcomes of independent events with two mutually exclusive possible outcomes, a fixed number of trials, and a constant probability of success. This is a discrete probability distribution, as opposed to continuous—for example, instead of graphing it with a line, you would use a histogram, because the potential outcomes are a discrete set [&#8230;]]]></description>
@@ -77,7 +77,7 @@ and it will look more and more like a graph of normal distribution.</p>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Fri, 22 Jul 2022 23:12:36 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Dictionary Definition]]></category>
 		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1125</guid>
 
 					<description><![CDATA[As this has become a popular marketing buzz phrase, definitions have proliferated, but in general, it refers to the ability to work with collections of data that had been impractical before because of their volume, velocity, and variety (“the three Vs”). A key driver of this new ability has been easier distribution of storage and [&#8230;]]]></description>
@@ -100,7 +100,7 @@ amounts of data often draws on data science skills.</p>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Fri, 22 Jul 2022 23:12:13 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Dictionary Definition]]></category>
 		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1123</guid>
 
 					<description><![CDATA[The bias-variance tradeoﬀ is the tradeoﬀ between bias and variance when creating machine learning models. Bias and variance are types of prediction error when creating machine learning models where a high bias indicates model underfitting, and high variance indicates model overfitting. Minimizing both of these factors to an optimal level decreases the overall error in [&#8230;]]]></description>
@@ -121,7 +121,7 @@ the overall error in prediction.</p>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Fri, 22 Jul 2022 23:11:53 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Dictionary Definition]]></category>
 		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1121</guid>
 
 					<description><![CDATA[bias is a learner’s tendency to consistently learn the same wrong thing. Variance is the tendency to learn random things irrespective of the real signal. It’s easy to avoid overfitting (variance) by falling into the opposite error of underfitting (bias). Simultaneously avoiding both requires learning a perfect classifier, and short of knowing it in advance [&#8230;]]]></description>
@@ -142,7 +142,7 @@ always do best (no free lunch).</p>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Fri, 22 Jul 2022 23:11:35 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Dictionary Definition]]></category>
 		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1119</guid>
 
 					<description><![CDATA[Bernoulli trial or binomial trial is a random experiment with exactly two possible outcomes, &#8220;success&#8221; and &#8220;failure&#8221;, in which the probability of success is the same every time the experiment is conducted.]]></description>
@@ -160,7 +160,7 @@ of success is the same every time the experiment is conducted.</p>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Fri, 22 Jul 2022 23:11:04 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Dictionary Definition]]></category>
 		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1117</guid>
 
 					<description><![CDATA[Bernoulli distribution, is the discrete probability distribution of a random variable which takes the value 1 with probability p and the value 0 with probability q = 1 − p. In other words, it can be thought of as a model for the set of possible outcomes of any single experiment that asks a yes–no [&#8230;]]]></description>
@@ -180,7 +180,7 @@ a yes–no question.</p>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Fri, 22 Jul 2022 23:10:35 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Dictionary Definition]]></category>
 		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1115</guid>
 
 					<description><![CDATA[Also, Bayes net. Bayesian networks are graphs that represent the relationship between random variables for a given problem. These graphs aid in performing reasoning or decision making in the face of uncertainty. Such reasoning relies heavily on Bayes’ rule. These networks are represented as graphs in which the link between any two nodes is assigned [&#8230;]]]></description>
@@ -201,7 +201,7 @@ representing the probabilistic relationship between those nodes.</p>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Fri, 22 Jul 2022 23:10:10 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Dictionary Definition]]></category>
 		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1113</guid>
 
 					<description><![CDATA[Also, Bayes&#8217; Rule. An equation for calculating the probability that something is true if something potentially related to it is true. If P(A) means the probability that A is true and P(A&#124;B) means the probability that A is true if B is true, then Bayes&#8217; Theorem tells us that P(A&#124;B) = (P(B&#124;A)P(A)) / P(B). This [&#8230;]]]></description>
@@ -226,7 +226,7 @@ for eighteenth-century English statistician Thomas Bayes.</p>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Fri, 22 Jul 2022 23:09:49 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Dictionary Definition]]></category>
 		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1111</guid>
 
 					<description><![CDATA[It comes from bootstrap aggregating, is a machine learning ensemble meta-algorithm designed to improve the stability and accuracy of machine learning algorithms used in statistical classification and regression.]]></description>
