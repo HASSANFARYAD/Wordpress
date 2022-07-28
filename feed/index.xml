@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 22 Jul 2022 23:27:47 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Jul 2022 17:07:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,212 +28,292 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Blending</title>
-		<link>/blending/</link>
+		<title>Hyperparameter Tuning</title>
+		<link>/hyperparameter-tuning/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 22 Jul 2022 23:27:47 +0000</pubDate>
+		<pubDate>Thu, 28 Jul 2022 17:07:27 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1129</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=2071</guid>
 
-					<description><![CDATA[blending is a process whereby big data from multiple sources are merged into a single data warehouse or data set. It concerns not merely the merging of diﬀerent file formats or disparate sources of data but also diﬀerent varieties of data. Data blending helps business analysts with the expansion of data that they need to [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>blending is a process whereby big data from multiple sources are<br />
-merged into a single data warehouse or data set. It concerns not merely the<br />
-merging of diﬀerent file formats or disparate sources of data but also diﬀerent<br />
-varieties of data. Data blending helps business analysts with the expansion of<br />
-data that they need to make critical business decisions based on good<br />
-quality business intelligence.</p>
-]]></content:encoded>
+					<description><![CDATA[Hyperparameter tuning is the process of finding the optimal hyperparameters for any given machine learning algorithm.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2071" class="elementor elementor-2071">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-f332daa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f332daa" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-32f4d7e" data-id="32f4d7e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0f1844c elementor-widget elementor-widget-text-editor" data-id="0f1844c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.8 - 27-07-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Hyperparameter tuning is the process of finding the optimal hyperparameters for any given machine learning algorithm.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Binomial distribution</title>
-		<link>/binomial-distribution/</link>
+		<title>Hyperparameter</title>
+		<link>/hyperparameter/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 22 Jul 2022 23:12:58 +0000</pubDate>
+		<pubDate>Thu, 28 Jul 2022 17:03:09 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1127</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=2059</guid>
 
-					<description><![CDATA[A distribution of outcomes of independent events with two mutually exclusive possible outcomes, a fixed number of trials, and a constant probability of success. This is a discrete probability distribution, as opposed to continuous—for example, instead of graphing it with a line, you would use a histogram, because the potential outcomes are a discrete set [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>A distribution of outcomes of independent events with<br />
-two mutually exclusive possible outcomes, a fixed number of trials, and a<br />
-constant probability of success. This is a discrete probability distribution, as<br />
-opposed to continuous—for example, instead of graphing it with a line, you<br />
-would use a histogram, because the potential outcomes are a discrete set of<br />
-values. As the number of trials represented by a binomial distribution goes up, if<br />
-the probability of success remains constant, the histogram bars will get thinner,<br />
-and it will look more and more like a graph of normal distribution.</p>
-]]></content:encoded>
+					<description><![CDATA[In machine learning, a hyperparameter is a parameter whose value is used to control the learning process. By contrast, the values of other parameters (typically node weights) are derived via training.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2059" class="elementor elementor-2059">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-2527304 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2527304" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b725728" data-id="b725728" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-91b1ddc elementor-widget elementor-widget-text-editor" data-id="91b1ddc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>In machine learning, a hyperparameter is a parameter whose value is used to control the learning process. By contrast, the values of other parameters (typically node weights) are derived via training.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Big Data</title>
-		<link>/big-data/</link>
+		<title>Histogram</title>
+		<link>/histogram/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 22 Jul 2022 23:12:36 +0000</pubDate>
+		<pubDate>Thu, 28 Jul 2022 17:01:31 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1125</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=2050</guid>
 
-					<description><![CDATA[As this has become a popular marketing buzz phrase, definitions have proliferated, but in general, it refers to the ability to work with collections of data that had been impractical before because of their volume, velocity, and variety (“the three Vs”). A key driver of this new ability has been easier distribution of storage and [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>As this has become a popular marketing buzz phrase, definitions<br />
-have proliferated, but in general, it refers to the ability to work with collections of<br />
-data that had been impractical before because of their volume, velocity, and<br />
-variety (“the three Vs”). A key driver of this new ability has been easier<br />
-distribution of storage and processing across networks of inexpensive<br />
-commodity hardware using technology such as Hadoop instead of requiring<br />
-larger, more powerful individual computers. The work done with these large<br />
-amounts of data often draws on data science skills.</p>
-]]></content:encoded>
+					<description><![CDATA[A histogram is an approximate representation of the distribution of numerical data. To construct a histogram, divide the entire range of values into a series of intervals count how many values fall into each interval and then arrange them into bins.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2050" class="elementor elementor-2050">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-7314595 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7314595" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d401833" data-id="d401833" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-da66eb5 elementor-widget elementor-widget-text-editor" data-id="da66eb5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>A histogram is an approximate representation of the distribution of numerical data. To construct a histogram, divide the entire range of values into a series of intervals count how many values fall into each interval and then arrange them into bins.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Bias-Variance Tradeoﬀ</title>
-		<link>/bias-variance-tradeo%ef%ac%80/</link>
+		<title>Hash Table</title>
+		<link>/hash-table/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 22 Jul 2022 23:12:13 +0000</pubDate>
+		<pubDate>Thu, 28 Jul 2022 17:00:01 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1123</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=2044</guid>
 
-					<description><![CDATA[The bias-variance tradeoﬀ is the tradeoﬀ between bias and variance when creating machine learning models. Bias and variance are types of prediction error when creating machine learning models where a high bias indicates model underfitting, and high variance indicates model overfitting. Minimizing both of these factors to an optimal level decreases the overall error in [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>The bias-variance tradeoﬀ is the tradeoﬀ<br />
-between bias and variance when creating machine learning models. Bias and<br />
-variance are types of prediction error when creating machine learning models<br />
-where a high bias indicates model underfitting, and high variance indicates<br />
-model overfitting. Minimizing both of these factors to an optimal level decreases<br />
-the overall error in prediction.</p>
-]]></content:encoded>
+					<description><![CDATA[Hash tables are a type of data structure in which the address index value of the data element is generated from a hash function. This way, data is stored in an array format, where each data value has its own unique index value. This enables very fast data access as the index value behaves as [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2044" class="elementor elementor-2044">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-402ca48 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="402ca48" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dc26725" data-id="dc26725" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f0b2980 elementor-widget elementor-widget-text-editor" data-id="f0b2980" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Hash tables are a type of data structure in which the address index value of the data element is generated from a hash function. This way, data is stored in an array format, where each data value has its own unique index value. This enables very fast data access as the index value behaves as a key for the data value.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Bias</title>
-		<link>/bias/</link>
+		<title>Hadoop</title>
+		<link>/hadoop/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 22 Jul 2022 23:11:53 +0000</pubDate>
+		<pubDate>Thu, 28 Jul 2022 16:58:14 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1121</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=2035</guid>
 
-					<description><![CDATA[bias is a learner’s tendency to consistently learn the same wrong thing. Variance is the tendency to learn random things irrespective of the real signal. It’s easy to avoid overfitting (variance) by falling into the opposite error of underfitting (bias). Simultaneously avoiding both requires learning a perfect classifier, and short of knowing it in advance [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>bias is a learner’s tendency to consistently learn the same wrong thing.<br />
-Variance is the tendency to learn random things irrespective of the real signal.<br />
-It’s easy to avoid overfitting (variance) by falling into the opposite error of<br />
-underfitting (bias). Simultaneously avoiding both requires learning a perfect<br />
-classifier, and short of knowing it in advance there is no single technique that will<br />
-always do best (no free lunch).</p>
-]]></content:encoded>
+					<description><![CDATA[Hadoop is an open-source Java-based software framework that enables parallel processing and distributed storage of big data across clusters of many computers. Hadoop allows to save time and handle much larger amounts of data than could be possible using only one computer.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2035" class="elementor elementor-2035">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-ba0ad51 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ba0ad51" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d3a1d6a" data-id="d3a1d6a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e4349a3 elementor-widget elementor-widget-text-editor" data-id="e4349a3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Hadoop is an open-source Java-based software framework that enables parallel processing and distributed storage of big data across clusters of many computers. Hadoop allows to save time and handle much larger amounts of data than could be possible using only one computer.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Bernoulli trial</title>
-		<link>/bernoulli-trial/</link>
+		<title>Gradient Descent</title>
+		<link>/gradient-descent/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 22 Jul 2022 23:11:35 +0000</pubDate>
+		<pubDate>Thu, 28 Jul 2022 16:33:09 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1119</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=2025</guid>
 
-					<description><![CDATA[Bernoulli trial or binomial trial is a random experiment with exactly two possible outcomes, &#8220;success&#8221; and &#8220;failure&#8221;, in which the probability of success is the same every time the experiment is conducted.]]></description>
-										<content:encoded><![CDATA[<p>Bernoulli trial or binomial trial is a random experiment with<br />
-exactly two possible outcomes, &#8220;success&#8221; and &#8220;failure&#8221;, in which the probability<br />
-of success is the same every time the experiment is conducted.</p>
-]]></content:encoded>
+					<description><![CDATA[Gradient descent is an iterative optimization process used in machine learning to minimize the cost function by finding the optimal values to the parameters of the function.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2025" class="elementor elementor-2025">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-71acb7b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="71acb7b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a4aa5ed" data-id="a4aa5ed" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-057e85b elementor-widget elementor-widget-text-editor" data-id="057e85b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Gradient descent is an iterative optimization process used in machine learning to minimize the cost function by finding the optimal values to the parameters of the function.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Bernoulli distribution</title>
-		<link>/bernoulli-distribution/</link>
+		<title>GPU</title>
+		<link>/gpu/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 22 Jul 2022 23:11:04 +0000</pubDate>
+		<pubDate>Thu, 28 Jul 2022 16:30:40 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1117</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=2016</guid>
 
-					<description><![CDATA[Bernoulli distribution, is the discrete probability distribution of a random variable which takes the value 1 with probability p and the value 0 with probability q = 1 − p. In other words, it can be thought of as a model for the set of possible outcomes of any single experiment that asks a yes–no [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Bernoulli distribution, is the discrete probability<br />
-distribution of a random variable which takes the value 1 with probability p and<br />
-the value 0 with probability q = 1 − p. In other words, it can be thought of as a<br />
-model for the set of possible outcomes of any single experiment that asks<br />
-a yes–no question.</p>
-]]></content:encoded>
+					<description><![CDATA[A graphics processing unit (GPU) is a specialized electronic circuit designed to manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device. GPUs are used in embedded systems, mobile phones, personal computers, workstations, game consoles and heavily used in neural networks due to its [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2016" class="elementor elementor-2016">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-dd20474 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="dd20474" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1840b04" data-id="1840b04" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2b015c8 elementor-widget elementor-widget-text-editor" data-id="2b015c8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>A graphics processing unit (GPU) is a specialized electronic circuit designed to manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device. GPUs are used in embedded systems, mobile phones, personal computers, workstations, game consoles and heavily used in neural networks due to its capabilities to perform geometric calculations involving matrix multiplication.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Bayesian network</title>
-		<link>/bayesian-network/</link>
+		<title>Google Colab</title>
+		<link>/google-colab/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 22 Jul 2022 23:10:35 +0000</pubDate>
+		<pubDate>Thu, 28 Jul 2022 16:28:30 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1115</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=2007</guid>
 
-					<description><![CDATA[Also, Bayes net. Bayesian networks are graphs that represent the relationship between random variables for a given problem. These graphs aid in performing reasoning or decision making in the face of uncertainty. Such reasoning relies heavily on Bayes’ rule. These networks are represented as graphs in which the link between any two nodes is assigned [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Also, Bayes net. Bayesian networks are graphs that<br />
-represent the relationship between random variables for a given problem. These<br />
-graphs aid in performing reasoning or decision making in the face of uncertainty.<br />
-Such reasoning relies heavily on Bayes’ rule. These networks are represented as<br />
-graphs in which the link between any two nodes is assigned a value<br />
-representing the probabilistic relationship between those nodes.</p>
-]]></content:encoded>
+					<description><![CDATA[Colab is a free Jupyter notebook environment that runs entirely in the cloud. Most importantly, it does not require a setup and the notebooks that you create can be simultaneously edited by your team members &#8211; just the way you edit documents in Google Docs.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2007" class="elementor elementor-2007">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-58a3ce0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="58a3ce0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ed3297f" data-id="ed3297f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b38ae00 elementor-widget elementor-widget-text-editor" data-id="b38ae00" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Colab is a free Jupyter notebook environment that runs entirely in the cloud. Most importantly, it does not require a setup and the notebooks that you create can be simultaneously edited by your team members &#8211; just the way you edit documents in Google Docs.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Bayes&#8217; Theorem</title>
-		<link>/bayes-theorem/</link>
+		<title>ggplot2</title>
+		<link>/ggplot2/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 22 Jul 2022 23:10:10 +0000</pubDate>
+		<pubDate>Thu, 28 Jul 2022 16:26:10 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1113</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1998</guid>
 
-					<description><![CDATA[Also, Bayes&#8217; Rule. An equation for calculating the probability that something is true if something potentially related to it is true. If P(A) means the probability that A is true and P(A&#124;B) means the probability that A is true if B is true, then Bayes&#8217; Theorem tells us that P(A&#124;B) = (P(B&#124;A)P(A)) / P(B). This [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p>Also, Bayes&#8217; Rule. An equation for calculating the probability<br />
-that something is true if something potentially related to it is true. If P(A) means<br />
-the probability that A is true and P(A|B) means the probability that A is true if B is<br />
-true, then Bayes&#8217; Theorem tells us that P(A|B) = (P(B|A)P(A)) / P(B). This is useful<br />
-for working with false positives—for example, if x% of people have a disease,<br />
-the test for it is correct y% of the time, and you test positive, Bayes&#8217; Theorem<br />
-helps calculate the odds that you actually have the disease. The theorem also<br />
-makes it easier to update a probability based on new data, which makes it<br />
-valuable in the many applications where data continues to accumulate. Named<br />
-for eighteenth-century English statistician Thomas Bayes.</p>
-]]></content:encoded>
+					<description><![CDATA[ggplot2 is a data visualization package for the statistical programming language R. It is a scheme for data visualization which breaks up graphs into semantic components such as scales and layers. ggplot2 is an alternative to the base graphics in R and contains a number of plotting defaults.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1998" class="elementor elementor-1998">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-5241a54 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5241a54" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1aea7ab" data-id="1aea7ab" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ba9e1d7 elementor-widget elementor-widget-text-editor" data-id="ba9e1d7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>ggplot2 is a data visualization package for the statistical programming language R. It is a scheme for data visualization which breaks up graphs into semantic components such as scales and layers. ggplot2 is an alternative to the base graphics in R and contains a number of plotting defaults.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Bagging</title>
-		<link>/bagging/</link>
+		<title>Ggmap</title>
+		<link>/ggmap/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 22 Jul 2022 23:09:49 +0000</pubDate>
+		<pubDate>Thu, 28 Jul 2022 16:23:48 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1111</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1989</guid>
 
-					<description><![CDATA[It comes from bootstrap aggregating, is a machine learning ensemble meta-algorithm designed to improve the stability and accuracy of machine learning algorithms used in statistical classification and regression.]]></description>
-										<content:encoded><![CDATA[<p>It comes from bootstrap aggregating, is a machine learning<br />
-ensemble meta-algorithm designed to improve the stability and accuracy<br />
-of machine learning algorithms used in statistical classification and regression.</p>
-]]></content:encoded>
+					<description><![CDATA[Ggmap is an R package that makes it easy to retrieve raster map tiles from popular online mapping services such as Google Maps and Stamen Maps and plot them using the ggplot2 framework resulting a modular framework for spatial graphics with several tools for spatial data analysis.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1989" class="elementor elementor-1989">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-838d12f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="838d12f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-674701e" data-id="674701e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9ebf28d elementor-widget elementor-widget-text-editor" data-id="9ebf28d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Ggmap is an R package that makes it easy to retrieve raster map tiles from popular online mapping services such as Google Maps and Stamen Maps and plot them using the ggplot2 framework resulting a modular framework for spatial graphics with several tools for spatial data analysis.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
 					
 		
 		
