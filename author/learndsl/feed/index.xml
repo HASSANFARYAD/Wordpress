@@ -12,7 +12,7 @@
 	<atom:link href="/author/learndsl/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 28 Jul 2022 17:07:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 30 Jul 2022 06:06:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,24 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Hyperparameter Tuning</title>
-		<link>/hyperparameter-tuning/</link>
+		<title>Ztest</title>
+		<link>/ztest/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 28 Jul 2022 17:07:27 +0000</pubDate>
+		<pubDate>Sat, 30 Jul 2022 06:05:36 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=2071</guid>
+		<guid isPermaLink="false">/?p=3157</guid>
 
-					<description><![CDATA[Hyperparameter tuning is the process of finding the optimal hyperparameters for any given machine learning algorithm.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2071" class="elementor elementor-2071">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-f332daa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f332daa" data-element_type="section">
+					<description><![CDATA[Z-test determines to what extent a data point is away from the mean of the data set, in standard deviation.  ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3157" class="elementor elementor-3157">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-54631ee elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="54631ee" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-32f4d7e" data-id="32f4d7e" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-aa89197" data-id="aa89197" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-0f1844c elementor-widget elementor-widget-text-editor" data-id="0f1844c" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-3c2504b elementor-widget elementor-widget-text-editor" data-id="3c2504b" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.6.8 - 27-07-2022 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Hyperparameter tuning is the process of finding the optimal hyperparameters for any given machine learning algorithm.</p>						</div>
+			<style>/*! elementor - v3.6.6 - 15-06-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Z-test determines to what extent a data point is away from the mean of the data set, in standard deviation.  </p>						</div>
 				</div>
 					</div>
 		</div>
@@ -58,23 +58,23 @@
 		
 			</item>
 		<item>
-		<title>Hyperparameter</title>
-		<link>/hyperparameter/</link>
+		<title>Z-Score</title>
+		<link>/z-score/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 28 Jul 2022 17:03:09 +0000</pubDate>
+		<pubDate>Sat, 30 Jul 2022 06:03:24 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=2059</guid>
+		<guid isPermaLink="false">/?p=3148</guid>
 
-					<description><![CDATA[In machine learning, a hyperparameter is a parameter whose value is used to control the learning process. By contrast, the values of other parameters (typically node weights) are derived via training.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2059" class="elementor elementor-2059">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-2527304 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2527304" data-element_type="section">
+					<description><![CDATA[The Z-Score, also known as standardized score, standard score, or normal score, is the number of units of standard deviation by which the value of a data observation is above or below the mean value of the entire set of values. A z-score equal to 0 means that the data observation is close to the [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3148" class="elementor elementor-3148">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-aaa955d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="aaa955d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b725728" data-id="b725728" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-99f8ba0" data-id="99f8ba0" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-91b1ddc elementor-widget elementor-widget-text-editor" data-id="91b1ddc" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-ab6db62 elementor-widget elementor-widget-text-editor" data-id="ab6db62" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>In machine learning, a hyperparameter is a parameter whose value is used to control the learning process. By contrast, the values of other parameters (typically node weights) are derived via training.</p>						</div>
+							<p>The Z-Score, also known as standardized score, standard score, or normal score, is the number of units of standard deviation by which the value of a data observation is above or below the mean value of the entire set of values. A z-score equal to 0 means that the data observation is close to the mean.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -87,23 +87,23 @@
 		
 			</item>
 		<item>
-		<title>Histogram</title>
-		<link>/histogram/</link>
+		<title>XGBoost</title>
+		<link>/xgboost/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 28 Jul 2022 17:01:31 +0000</pubDate>
+		<pubDate>Sat, 30 Jul 2022 06:01:36 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=2050</guid>
+		<guid isPermaLink="false">/?p=3139</guid>
 
-					<description><![CDATA[A histogram is an approximate representation of the distribution of numerical data. To construct a histogram, divide the entire range of values into a series of intervals count how many values fall into each interval and then arrange them into bins.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2050" class="elementor elementor-2050">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-7314595 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7314595" data-element_type="section">
+					<description><![CDATA[XGBoost is an open source, ensemble machine learning algorithm that utilizes a high-performance implementation of gradient boosted decision trees. An underlying C++ codebase combined with a Python interface sitting on top makes XGBoost a very fast, scalable, and highly usable library.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3139" class="elementor elementor-3139">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-3a8ef5b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3a8ef5b" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d401833" data-id="d401833" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-21a69ea" data-id="21a69ea" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-da66eb5 elementor-widget elementor-widget-text-editor" data-id="da66eb5" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-08a5086 elementor-widget elementor-widget-text-editor" data-id="08a5086" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>A histogram is an approximate representation of the distribution of numerical data. To construct a histogram, divide the entire range of values into a series of intervals count how many values fall into each interval and then arrange them into bins.</p>						</div>
+							<p>XGBoost is an open source, ensemble machine learning algorithm that utilizes a high-performance implementation of gradient boosted decision trees. An underlying C++ codebase combined with a Python interface sitting on top makes XGBoost a very fast, scalable, and highly usable library.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -116,23 +116,23 @@
 		
 			</item>
 		<item>
-		<title>Hash Table</title>
-		<link>/hash-table/</link>
+		<title>Web Scraping</title>
+		<link>/web-scraping/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 28 Jul 2022 17:00:01 +0000</pubDate>
+		<pubDate>Sat, 30 Jul 2022 05:59:54 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=2044</guid>
+		<guid isPermaLink="false">/?p=3130</guid>
 
-					<description><![CDATA[Hash tables are a type of data structure in which the address index value of the data element is generated from a hash function. This way, data is stored in an array format, where each data value has its own unique index value. This enables very fast data access as the index value behaves as [&#8230;]]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2044" class="elementor elementor-2044">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-402ca48 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="402ca48" data-element_type="section">
+					<description><![CDATA[Web scraping is the process of extracting specific data from websites for further usage. Web scraping can be done automatically by writing a program to capture the necessary information from a website.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3130" class="elementor elementor-3130">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-658c18c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="658c18c" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dc26725" data-id="dc26725" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6fda26a" data-id="6fda26a" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-f0b2980 elementor-widget elementor-widget-text-editor" data-id="f0b2980" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-f855df9 elementor-widget elementor-widget-text-editor" data-id="f855df9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Hash tables are a type of data structure in which the address index value of the data element is generated from a hash function. This way, data is stored in an array format, where each data value has its own unique index value. This enables very fast data access as the index value behaves as a key for the data value.</p>						</div>
+							<p>Web scraping is the process of extracting specific data from websites for further usage. Web scraping can be done automatically by writing a program to capture the necessary information from a website.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -145,23 +145,23 @@
 		
 			</item>
 		<item>
-		<title>Hadoop</title>
-		<link>/hadoop/</link>
+		<title>Variance</title>
+		<link>/variance/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 28 Jul 2022 16:58:14 +0000</pubDate>
+		<pubDate>Sat, 30 Jul 2022 05:57:48 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=2035</guid>
+		<guid isPermaLink="false">/?p=3121</guid>
 
-					<description><![CDATA[Hadoop is an open-source Java-based software framework that enables parallel processing and distributed storage of big data across clusters of many computers. Hadoop allows to save time and handle much larger amounts of data than could be possible using only one computer.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2035" class="elementor elementor-2035">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-ba0ad51 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ba0ad51" data-element_type="section">
+					<description><![CDATA[The variance is the average squared difference between individual values and the mean of the entire set of values in mathematics and statistics. In other words, variance shows how spread out the values are. In machine learning, the variance is an error caused by the sensitivity of a model to small variations in the training [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3121" class="elementor elementor-3121">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-f205a1b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f205a1b" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d3a1d6a" data-id="d3a1d6a" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b7c44cd" data-id="b7c44cd" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-e4349a3 elementor-widget elementor-widget-text-editor" data-id="e4349a3" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-f4c22c3 elementor-widget elementor-widget-text-editor" data-id="f4c22c3" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Hadoop is an open-source Java-based software framework that enables parallel processing and distributed storage of big data across clusters of many computers. Hadoop allows to save time and handle much larger amounts of data than could be possible using only one computer.</p>						</div>
+							<p>The variance is the average squared difference between individual values and the mean of the entire set of values in mathematics and statistics. In other words, variance shows how spread out the values are. In machine learning, the variance is an error caused by the sensitivity of a model to small variations in the training set. High variance reflects a tendency of the model to learn random noise from the input features leading to model overfitting.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -174,23 +174,23 @@
 		
 			</item>
 		<item>
-		<title>Gradient Descent</title>
-		<link>/gradient-descent/</link>
+		<title>Unsupervised Learning</title>
+		<link>/unsupervised-learning/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 28 Jul 2022 16:33:09 +0000</pubDate>
+		<pubDate>Sat, 30 Jul 2022 05:56:25 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=2025</guid>
+		<guid isPermaLink="false">/?p=3112</guid>
 
-					<description><![CDATA[Gradient descent is an iterative optimization process used in machine learning to minimize the cost function by finding the optimal values to the parameters of the function.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2025" class="elementor elementor-2025">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-71acb7b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="71acb7b" data-element_type="section">
+					<description><![CDATA[Unsupervised learning is a class of machine learning algorithms that learn the underlying structure of a dataset without being provided a target variable. Unsupervised learning is used to discover common patterns in data, group the values based on their attributes, and then later make predictions on unseen data. The most common unsupervised learning algorithm is [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3112" class="elementor elementor-3112">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-8b10398 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8b10398" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a4aa5ed" data-id="a4aa5ed" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dd523c5" data-id="dd523c5" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-057e85b elementor-widget elementor-widget-text-editor" data-id="057e85b" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-e825e96 elementor-widget elementor-widget-text-editor" data-id="e825e96" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Gradient descent is an iterative optimization process used in machine learning to minimize the cost function by finding the optimal values to the parameters of the function.</p>						</div>
+							<p>Unsupervised learning is a class of machine learning algorithms that learn the underlying structure of a dataset without being provided a target variable. Unsupervised learning is used to discover common patterns in data, group the values based on their attributes, and then later make predictions on unseen data. The most common unsupervised learning algorithm is k-means.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -203,23 +203,23 @@
 		
 			</item>
 		<item>
-		<title>GPU</title>
-		<link>/gpu/</link>
+		<title>Unstructured Data</title>
+		<link>/unstructured-data/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 28 Jul 2022 16:30:40 +0000</pubDate>
+		<pubDate>Sat, 30 Jul 2022 05:54:10 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=2016</guid>
+		<guid isPermaLink="false">/?p=3103</guid>
 
-					<description><![CDATA[A graphics processing unit (GPU) is a specialized electronic circuit designed to manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device. GPUs are used in embedded systems, mobile phones, personal computers, workstations, game consoles and heavily used in neural networks due to its [&#8230;]]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2016" class="elementor elementor-2016">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-dd20474 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="dd20474" data-element_type="section">
+					<description><![CDATA[Unstructured data is any data that does not fit a predefined data structure such as the typical row-column structure of a database. Examples of such data are images, emails, text documents, videos and audio.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3103" class="elementor elementor-3103">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-3bae65a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3bae65a" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1840b04" data-id="1840b04" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-aa35443" data-id="aa35443" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-2b015c8 elementor-widget elementor-widget-text-editor" data-id="2b015c8" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-4102e99 elementor-widget elementor-widget-text-editor" data-id="4102e99" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>A graphics processing unit (GPU) is a specialized electronic circuit designed to manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device. GPUs are used in embedded systems, mobile phones, personal computers, workstations, game consoles and heavily used in neural networks due to its capabilities to perform geometric calculations involving matrix multiplication.</p>						</div>
+							<p>Unstructured data is any data that does not fit a predefined data structure such as the typical row-column structure of a database. Examples of such data are images, emails, text documents, videos and audio.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -232,23 +232,23 @@
 		
 			</item>
 		<item>
-		<title>Google Colab</title>
-		<link>/google-colab/</link>
+		<title>Univariate Modeling</title>
+		<link>/univariate-modeling/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 28 Jul 2022 16:28:30 +0000</pubDate>
+		<pubDate>Sat, 30 Jul 2022 05:49:21 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=2007</guid>
+		<guid isPermaLink="false">/?p=3094</guid>
 
-					<description><![CDATA[Colab is a free Jupyter notebook environment that runs entirely in the cloud. Most importantly, it does not require a setup and the notebooks that you create can be simultaneously edited by your team members &#8211; just the way you edit documents in Google Docs.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2007" class="elementor elementor-2007">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-58a3ce0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="58a3ce0" data-element_type="section">
+					<description><![CDATA[Univariate modeling is the process of modeling the relationship between a single variable, also called predictor, and the target variable. Univariate modeling is usually used with time series.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3094" class="elementor elementor-3094">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-fde1cce elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fde1cce" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ed3297f" data-id="ed3297f" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0562bef" data-id="0562bef" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-b38ae00 elementor-widget elementor-widget-text-editor" data-id="b38ae00" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-1a002fb elementor-widget elementor-widget-text-editor" data-id="1a002fb" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Colab is a free Jupyter notebook environment that runs entirely in the cloud. Most importantly, it does not require a setup and the notebooks that you create can be simultaneously edited by your team members &#8211; just the way you edit documents in Google Docs.</p>						</div>
+							<p>Univariate modeling is the process of modeling the relationship between a single variable, also called predictor, and the target variable. Univariate modeling is usually used with time series.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -261,23 +261,23 @@
 		
 			</item>
 		<item>
-		<title>ggplot2</title>
-		<link>/ggplot2/</link>
+		<title>Underfitting</title>
+		<link>/underfitting/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 28 Jul 2022 16:26:10 +0000</pubDate>
+		<pubDate>Sat, 30 Jul 2022 05:47:43 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1998</guid>
+		<guid isPermaLink="false">/?p=3085</guid>
 
-					<description><![CDATA[ggplot2 is a data visualization package for the statistical programming language R. It is a scheme for data visualization which breaks up graphs into semantic components such as scales and layers. ggplot2 is an alternative to the base graphics in R and contains a number of plotting defaults.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1998" class="elementor elementor-1998">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-5241a54 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5241a54" data-element_type="section">
+					<description><![CDATA[Underfitting describes a model which does not capture the underlying relationship in the dataset on which it’s trained.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3085" class="elementor elementor-3085">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-e7fae70 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e7fae70" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1aea7ab" data-id="1aea7ab" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a4779f0" data-id="a4779f0" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-ba9e1d7 elementor-widget elementor-widget-text-editor" data-id="ba9e1d7" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-fdd4aad elementor-widget elementor-widget-text-editor" data-id="fdd4aad" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>ggplot2 is a data visualization package for the statistical programming language R. It is a scheme for data visualization which breaks up graphs into semantic components such as scales and layers. ggplot2 is an alternative to the base graphics in R and contains a number of plotting defaults.</p>						</div>
+							<p>Underfitting describes a model which does not capture the underlying relationship in the dataset on which it’s trained.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -290,23 +290,23 @@
 		
 			</item>
 		<item>
-		<title>Ggmap</title>
-		<link>/ggmap/</link>
+		<title>True Positive (TP)</title>
+		<link>/true-positive-tp/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 28 Jul 2022 16:23:48 +0000</pubDate>
+		<pubDate>Sat, 30 Jul 2022 05:46:24 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=1989</guid>
+		<guid isPermaLink="false">/?p=3077</guid>
 
-					<description><![CDATA[Ggmap is an R package that makes it easy to retrieve raster map tiles from popular online mapping services such as Google Maps and Stamen Maps and plot them using the ggplot2 framework resulting a modular framework for spatial graphics with several tools for spatial data analysis.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1989" class="elementor elementor-1989">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-838d12f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="838d12f" data-element_type="section">
+					<description><![CDATA[True positive (TP) is an outcome where the model correctly predicts the positive class for a binary target variable.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3077" class="elementor elementor-3077">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-944f629 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="944f629" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-674701e" data-id="674701e" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7f88715" data-id="7f88715" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-9ebf28d elementor-widget elementor-widget-text-editor" data-id="9ebf28d" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-f4c53ba elementor-widget elementor-widget-text-editor" data-id="f4c53ba" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Ggmap is an R package that makes it easy to retrieve raster map tiles from popular online mapping services such as Google Maps and Stamen Maps and plot them using the ggplot2 framework resulting a modular framework for spatial graphics with several tools for spatial data analysis.</p>						</div>
+							<p>True positive (TP) is an outcome where the model correctly predicts the positive class for a binary target variable.</p>						</div>
 				</div>
 					</div>
 		</div>
