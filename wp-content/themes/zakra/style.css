@@ -4,7 +4,7 @@ Theme URI: https://zakratheme.com/
 Author: ThemeGrill
 Author URI: https://themegrill.com
 Description: Zakra is flexible, fast, lightweight and modern multipurpose theme that comes with many starter free sites (currently 10+ free starter sites and more will be added later) that you can use to make your site beautiful and professional. Check all the starter sites at https://zakratheme.com/demos. Suitable for personal blog, portfolio, WooCommerce stores, business websites and niche-based sites (like Cafe, Spa, Charity, Yoga, Wedding, Dentist, Education etc) as well. Works with Elementor plus other major page builders so you can create any layout you want. The theme is responsive, Gutenberg compatible, SEO friendly, translation ready and major WordPress plugins compatible.
-Version: 2.1.3
+Version: 2.1.4
 Tested up to: 6.0
 Requires PHP: 5.6
 License: GPLv3 or later
@@ -1098,6 +1098,10 @@ a:active {
 	display: none;
 }
 
+.tg-mobile-toggle button:hover {
+	background-color: transparent;
+}
+
 .tg-header-action .header-action-list {
 	list-style-type: none;
 	display: -webkit-box;
@@ -1281,7 +1285,7 @@ a:active {
 }
 
 .tg-mobile-navigation li.tg-menu-item-search {
-	padding: 0.5em;
+	margin-top: 1rem;
 }
 
 .tg-mobile-navigation li.tg-menu-item-search label {
@@ -1294,20 +1298,31 @@ a:active {
 	display: block;
 }
 
-.tg-primary-menu > div ul li.tg-header-button-wrap a,
-.tg-mobile-navigation > div ul li.tg-header-button-wrap a {
+.tg-mobile-navigation li.tg-menu-item-cart {
+	margin-top: 1em;
+}
+
+.tg-primary-menu .tg-header-button-wrap a {
 	color: #fff;
 	background-color: #269bd1;
 	padding: 5px 10px;
 	-webkit-transition: all 0.35s ease-in-out;
 	transition: all 0.35s ease-in-out;
-	border: 0 solid #e9ecef;
+	border: 0px solid #269bd1;
 }
 
-.tg-primary-menu > div ul li.tg-header-button-wrap a:hover,
-.tg-mobile-navigation > div ul li.tg-header-button-wrap a:hover {
+.tg-primary-menu .tg-header-button-wrap a:hover {
 	color: #fff;
 	background-color: #1e7ba6;
+}
+
+.tg-primary-menu > div ul li.tg-header-button-wrap-second a {
+	color: #fff;
+	background-color: #269bd1;
+	padding: 5px 10px;
+	-webkit-transition: all 0.35s ease-in-out;
+	transition: all 0.35s ease-in-out;
+	border: 0 solid;
 }
 
 .tg-menu-item-cart .cart-page-link {
@@ -1721,6 +1736,16 @@ select {
 	background: transparent;
 }
 
+.site-branding .zakra-mobile-logo {
+	display: none;
+}
+
+.site-branding .mobile-custom-logo-link {
+	-webkit-box-align: start;
+	-ms-flex-align: start;
+	align-items: flex-start;
+}
+
 .tg-site-header-bottom {
 	padding-top: 1em;
 	padding-bottom: 1em;
@@ -1746,10 +1771,10 @@ select {
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
+	gap: 20px;
 }
 
 .site-branding .custom-logo-link {
-	margin-right: 20px;
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
