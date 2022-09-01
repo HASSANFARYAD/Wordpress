@@ -11,11 +11,11 @@
 	<atom:link href="/concentration-matrix/feed/" rel="self" type="application/rss+xml" />
 	<link>/concentration-matrix/</link>
 	<description></description>
-	<lastBuildDate>Tue, 02 Aug 2022 10:07:45 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Aug 2022 13:37:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 </channel>
 </rss>

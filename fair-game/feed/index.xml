@@ -11,11 +11,11 @@
 	<atom:link href="/fair-game/feed/" rel="self" type="application/rss+xml" />
 	<link>/fair-game/</link>
 	<description></description>
-	<lastBuildDate>Tue, 02 Aug 2022 14:42:55 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Aug 2022 11:51:07 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 </channel>
 </rss>

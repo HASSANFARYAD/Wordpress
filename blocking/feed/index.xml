@@ -11,11 +11,11 @@
 	<atom:link href="/blocking/feed/" rel="self" type="application/rss+xml" />
 	<link>/blocking/</link>
 	<description></description>
-	<lastBuildDate>Mon, 01 Aug 2022 10:28:47 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Aug 2022 16:53:07 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 </channel>
 </rss>

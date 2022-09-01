@@ -11,11 +11,11 @@
 	<atom:link href="/alpha/feed/" rel="self" type="application/rss+xml" />
 	<link>/alpha/</link>
 	<description></description>
-	<lastBuildDate>Mon, 01 Aug 2022 09:17:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Aug 2022 17:13:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 </channel>
 </rss>

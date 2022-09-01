@@ -11,11 +11,11 @@
 	<atom:link href="/bias/feed/" rel="self" type="application/rss+xml" />
 	<link>/bias/</link>
 	<description></description>
-	<lastBuildDate>Tue, 26 Jul 2022 10:28:08 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Sep 2022 10:36:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 </channel>
 </rss>

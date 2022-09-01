@@ -11,11 +11,11 @@
 	<atom:link href="/autoregression/feed/" rel="self" type="application/rss+xml" />
 	<link>/autoregression/</link>
 	<description></description>
-	<lastBuildDate>Sun, 24 Jul 2022 23:58:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Sep 2022 09:45:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 </channel>
 </rss>

@@ -11,11 +11,11 @@
 	<atom:link href="/bmdp/feed/" rel="self" type="application/rss+xml" />
 	<link>/bmdp/</link>
 	<description></description>
-	<lastBuildDate>Mon, 01 Aug 2022 10:45:41 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Aug 2022 16:49:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 </channel>
 </rss>
