@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 01 Sep 2022 15:24:14 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Sep 2022 14:01:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,24 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Linear Transformation</title>
-		<link>/linear-transformation/</link>
+		<title>Microarrays</title>
+		<link>/microarrays/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 01 Sep 2022 15:22:06 +0000</pubDate>
+		<pubDate>Fri, 02 Sep 2022 14:00:20 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=6755</guid>
+		<guid isPermaLink="false">/?p=7055</guid>
 
-					<description><![CDATA[In mathematics, and more specifically in linear algebra, a linear map (also called a linear mapping, linear transformation, vector space homomorphism, or in some contexts linear function) is a mapping V → W between two vector spaces that preserves the operations of vector addition and scalar multiplication. The same names and the same definition are also [&#8230;]]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6755" class="elementor elementor-6755">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-d1cdad5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d1cdad5" data-element_type="section">
+					<description><![CDATA[A technology that facilitates the simultaneous measurement of thousands of gene expression levels. A typical microarray experiment can produce millions of data points, and the statistical task is to efficiently reduce these numbers to simple summaries of genes’ structures.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7055" class="elementor elementor-7055">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-1ca6111 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1ca6111" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f2d3c4c" data-id="f2d3c4c" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7e6dfc1" data-id="7e6dfc1" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-8ef9fbe elementor-widget elementor-widget-text-editor" data-id="8ef9fbe" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-7619fa0 elementor-widget elementor-widget-text-editor" data-id="7619fa0" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.6.8 - 01-08-2022 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>In mathematics, and more specifically in linear algebra, a linear map (also called a linear mapping, linear transformation, vector space homomorphism, or in some contexts linear function) is a mapping V → W between two vector spaces that preserves the operations of <span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text );">vector addition and scalar multiplication. The same names and the same definition are also used for the more general case of modules over a ring.</span></p>						</div>
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>A technology that facilitates the simultaneous measurement of thousands of gene expression levels. A typical microarray experiment can produce millions of data points, and the statistical task is to efficiently reduce these numbers to simple summaries of genes’ structures.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -58,23 +58,23 @@
 		
 			</item>
 		<item>
-		<title>Linearizing</title>
-		<link>/linearizing/</link>
+		<title>Method of Moments</title>
+		<link>/method-of-moments/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 01 Sep 2022 15:18:59 +0000</pubDate>
+		<pubDate>Fri, 02 Sep 2022 13:57:58 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=6750</guid>
+		<guid isPermaLink="false">/?p=7049</guid>
 
-					<description><![CDATA[The conversion of a non linear model into one that is linear, for the purpose of simplifying the estimation of parameters.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6750" class="elementor elementor-6750">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-be73963 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="be73963" data-element_type="section">
+					<description><![CDATA[A procedure for estimating the parameters in a model by equating sample moments to their population values. A famous early example of the use of the procedure is in Karl Pearson ’s description of estimating the five parameters in a finite mixture distribution with two univariate normal components.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7049" class="elementor elementor-7049">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-b3adb8f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b3adb8f" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b3ba9d1" data-id="b3ba9d1" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-09a73e3" data-id="09a73e3" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-e74fbd9 elementor-widget elementor-widget-text-editor" data-id="e74fbd9" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-69ff939 elementor-widget elementor-widget-text-editor" data-id="69ff939" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>The conversion of a non linear model into one that is linear, for the purpose of simplifying the estimation of parameters.</p>						</div>
+							<p>A procedure for estimating the parameters in a model by equating sample moments to their population values. A famous early example of the use of the procedure is in Karl Pearson ’s description of estimating the five parameters in a finite mixture distribution with two univariate normal components.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -87,23 +87,23 @@
 		
 			</item>
 		<item>
-		<title>Linear Estimator</title>
-		<link>/linear-estimator/</link>
+		<title>Meta-Analysis</title>
+		<link>/meta-analysis/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 01 Sep 2022 15:17:24 +0000</pubDate>
+		<pubDate>Fri, 02 Sep 2022 13:55:46 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=6744</guid>
+		<guid isPermaLink="false">/?p=7030</guid>
 
-					<description><![CDATA[An estimator which is a linear function of the observations, or of sample statistics calculated from the observations.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6744" class="elementor elementor-6744">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-6f338cf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6f338cf" data-element_type="section">
+					<description><![CDATA[A collection of techniques whereby the results of two or more independent studies are statistically combined to yield an overall answer to a question of interest. The rationale behind this approach is to provide a test with more power than is provided by the separate studies themselves.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7030" class="elementor elementor-7030">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-e60fb3d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e60fb3d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-83bc6c4" data-id="83bc6c4" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a487f9d" data-id="a487f9d" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-fdd7fd3 elementor-widget elementor-widget-text-editor" data-id="fdd7fd3" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-916c0b3 elementor-widget elementor-widget-text-editor" data-id="916c0b3" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>An estimator which is a linear function of the observations, or of sample statistics calculated from the observations.</p>						</div>
+							<p>A collection of techniques whereby the results of two or more independent studies are statistically combined to yield an overall answer to a question of interest. The rationale behind this approach is to provide a test with more power than is provided by the separate studies themselves.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -116,23 +116,23 @@
 		
 			</item>
 		<item>
-		<title>Linear-by-linear Association Test</title>
-		<link>/linear-by-linear-association-test/</link>
+		<title>M-Estimators</title>
+		<link>/m-estimators/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 01 Sep 2022 15:15:43 +0000</pubDate>
+		<pubDate>Fri, 02 Sep 2022 13:51:14 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=6737</guid>
+		<guid isPermaLink="false">/?p=7027</guid>
 
-					<description><![CDATA[A test for detecting specific types of departure from independence in a contingency table in which both the row and column categories have a natural order.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6737" class="elementor elementor-6737">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-089ed4a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="089ed4a" data-element_type="section">
+					<description><![CDATA[Robust estimators of the parameters in statistical models. The name derives from ‘maximum likelihood like’ estimators.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7027" class="elementor elementor-7027">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-9923602 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9923602" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8376753" data-id="8376753" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a9ad53" data-id="2a9ad53" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1ce48f7 elementor-widget elementor-widget-text-editor" data-id="1ce48f7" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-f988758 elementor-widget elementor-widget-text-editor" data-id="f988758" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>A test for detecting specific types of departure from independence in a contingency table in which both the row and column categories have a natural order.</p>						</div>
+							<p>Robust estimators of the parameters in statistical models. The name derives from ‘maximum likelihood like’ estimators.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -145,23 +145,23 @@
 		
 			</item>
 		<item>
-		<title>Lindley’s Paradox</title>
-		<link>/lindleys-paradox/</link>
+		<title>Measures of Association</title>
+		<link>/measures-of-association/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 01 Sep 2022 15:12:25 +0000</pubDate>
+		<pubDate>Fri, 02 Sep 2022 13:48:47 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=6731</guid>
+		<guid isPermaLink="false">/?p=7021</guid>
 
-					<description><![CDATA[A name used for situations where using Bayesian inference suggests very large odds in favor of some null hypothesis when a standard sampling theory test of significance indicates very strong evidence against it.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6731" class="elementor elementor-6731">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-09ccffb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="09ccffb" data-element_type="section">
+					<description><![CDATA[Numerical indices quantifying the strength of the statistical dependence of two or more qualitative variables.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7021" class="elementor elementor-7021">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-0e9cec8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0e9cec8" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7fcb765" data-id="7fcb765" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d47adc2" data-id="d47adc2" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6cfa081 elementor-widget elementor-widget-text-editor" data-id="6cfa081" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-d0509e5 elementor-widget elementor-widget-text-editor" data-id="d0509e5" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>A name used for situations where using Bayesian inference suggests very large odds in favor of some null hypothesis when a standard sampling theory test of significance indicates very strong evidence against it.</p>						</div>
+							<p>Numerical indices quantifying the strength of the statistical dependence of two or more qualitative variables.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -174,23 +174,23 @@
 		
 			</item>
 		<item>
-		<title>Lilliefors Test</title>
-		<link>/lilliefors-test/</link>
+		<title>Measurement Error</title>
+		<link>/measurement-error/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 01 Sep 2022 15:10:27 +0000</pubDate>
+		<pubDate>Fri, 02 Sep 2022 13:43:27 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=6724</guid>
+		<guid isPermaLink="false">/?p=7015</guid>
 
-					<description><![CDATA[A test used to assess whether data arise from a normally distributed population where the mean and the variance of the population are not specified.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6724" class="elementor elementor-6724">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-b5c927d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b5c927d" data-element_type="section">
+					<description><![CDATA[Errors in reading, calculating or recording a numerical value. The difference between observed values of a variable recorded under similar conditions and some fixed true value.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7015" class="elementor elementor-7015">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-f5162c4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f5162c4" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4893bea" data-id="4893bea" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4050c85" data-id="4050c85" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-2379fe3 elementor-widget elementor-widget-text-editor" data-id="2379fe3" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-5a0ffff elementor-widget elementor-widget-text-editor" data-id="5a0ffff" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>A test used to assess whether data arise from a normally distributed population where the mean and the variance of the population are not specified.</p>						</div>
+							<p>Errors in reading, calculating or recording a numerical value. The difference <span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text );">between observed values of a variable recorded under similar conditions and some fixed true value.</span></p>						</div>
 				</div>
 					</div>
 		</div>
@@ -203,23 +203,23 @@
 		
 			</item>
 		<item>
-		<title>Likert Scales</title>
-		<link>/likert-scales/</link>
+		<title>Mean Vector</title>
+		<link>/mean-vector/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 01 Sep 2022 15:06:40 +0000</pubDate>
+		<pubDate>Fri, 02 Sep 2022 13:41:14 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=6718</guid>
+		<guid isPermaLink="false">/?p=7008</guid>
 
-					<description><![CDATA[Scales often used in studies of attitudes in which the raw scores are based on graded alternative responses to each of a series of questions. For example, the subject may be asked to indicate his or her degree of agreement with each of a series of statements relevant to the attitude. A number is attached [&#8230;]]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6718" class="elementor elementor-6718">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-a0b6549 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a0b6549" data-element_type="section">
+					<description><![CDATA[A vector containing the mean values of each variable in a set of multivariate data.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7008" class="elementor elementor-7008">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-ea4ab23 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ea4ab23" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e4ec2b9" data-id="e4ec2b9" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-aa9a94d" data-id="aa9a94d" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-e9a28c9 elementor-widget elementor-widget-text-editor" data-id="e9a28c9" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-4749197 elementor-widget elementor-widget-text-editor" data-id="4749197" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Scales often used in studies of attitudes in which the raw scores are based on graded alternative responses to each of a series of questions. For example, the subject may be asked to indicate his or her degree of agreement with each of a series of statements relevant to the attitude. A number is attached to each possible response, e.g. 1 &#8211; strongly approve; 2 &#8211; approve; 3 -undecided; 4 &#8211; disapprove; 5 &#8211; strongly disapprove; and the sum of these is used as the composite score.</p>						</div>
+							<p>A vector containing the mean values of each variable in a set of multivariate data.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -232,23 +232,23 @@
 		
 			</item>
 		<item>
-		<title>Likelihood Principle</title>
-		<link>/likelihood-principle/</link>
+		<title>Mean Square Error Estimation</title>
+		<link>/mean-square-error-estimation/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 01 Sep 2022 15:04:43 +0000</pubDate>
+		<pubDate>Fri, 02 Sep 2022 13:38:42 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=6713</guid>
+		<guid isPermaLink="false">/?p=7003</guid>
 
-					<description><![CDATA[Within the framework of a statistical model, all the information which the data provide concerning the relative merits of two hypotheses is contained in the likelihood ratio of these hypotheses on the data.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6713" class="elementor elementor-6713">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-8af0f1d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8af0f1d" data-element_type="section">
+					<description><![CDATA[Estimation of the parameters in a model so as to minimize the mean square error.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7003" class="elementor elementor-7003">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-bf469ba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bf469ba" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7d5a4d3" data-id="7d5a4d3" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c9b2cd8" data-id="c9b2cd8" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-34d4139 elementor-widget elementor-widget-text-editor" data-id="34d4139" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-3bfe5f7 elementor-widget elementor-widget-text-editor" data-id="3bfe5f7" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Within the framework of a statistical model, all the information which the data provide concerning the relative merits of two hypotheses is contained in the likelihood ratio of these hypotheses on the data.</p>						</div>
+							<p>Estimation of the parameters in a model so as to minimize the mean square error.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -261,23 +261,23 @@
 		
 			</item>
 		<item>
-		<title>Likelihood Distance Test</title>
-		<link>/likelihood-distance-test/</link>
+		<title>Mean and Dispersion Additive Model (MADAM)</title>
+		<link>/mean-and-dispersion-additive-model-madam/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 01 Sep 2022 14:42:27 +0000</pubDate>
+		<pubDate>Fri, 02 Sep 2022 13:33:40 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=6707</guid>
+		<guid isPermaLink="false">/?p=6997</guid>
 
-					<description><![CDATA[A procedure for the detection of outliers that use the difference between the log likelihood of the complete data set and the log likelihood when a particular observation is removed. If the difference is large then the observation involved is considered an outlier.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6707" class="elementor elementor-6707">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-9d9c825 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9d9c825" data-element_type="section">
+					<description><![CDATA[A flexible model for variance hetero geneity in a normal error model, in which both the mean and variance are modeled using semi parametric additive models.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6997" class="elementor elementor-6997">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-5dcbabd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5dcbabd" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bf055f1" data-id="bf055f1" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d84b067" data-id="d84b067" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-063dfe2 elementor-widget elementor-widget-text-editor" data-id="063dfe2" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-214e0c4 elementor-widget elementor-widget-text-editor" data-id="214e0c4" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>A procedure for the detection of outliers that use the difference between the log likelihood of the complete data set and the log likelihood when a particular observation is removed. If the difference is large then the observation involved is considered an outlier.</p>						</div>
+							<p>A flexible model for variance hetero geneity in a normal error model, in which both the mean and variance are modeled using semi parametric additive models.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -290,23 +290,23 @@
 		
 			</item>
 		<item>
-		<title>Likelihood</title>
-		<link>/likelihood/</link>
+		<title>McCabe-Tremayne Test</title>
+		<link>/mccabe-tremayne-test/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Thu, 01 Sep 2022 14:40:13 +0000</pubDate>
+		<pubDate>Fri, 02 Sep 2022 13:30:46 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=6701</guid>
+		<guid isPermaLink="false">/?p=6989</guid>
 
-					<description><![CDATA[The probability of a set of observations given the value of some parameter or set of parameters.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6701" class="elementor elementor-6701">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-8a7d2c7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8a7d2c7" data-element_type="section">
+					<description><![CDATA[ A test for the stationarity of particular types of time series.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6989" class="elementor elementor-6989">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4591f4d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4591f4d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-194b227" data-id="194b227" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e7a67b5" data-id="e7a67b5" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-b4811b6 elementor-widget elementor-widget-text-editor" data-id="b4811b6" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-65b637c elementor-widget elementor-widget-text-editor" data-id="65b637c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>The probability of a set of observations given the value of some parameter or set of parameters.</p>						</div>
+							<p> A test for the stationarity of particular types of time series.</p>						</div>
 				</div>
 					</div>
 		</div>
