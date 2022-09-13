@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 02 Sep 2022 14:01:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Sep 2022 15:03:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,292 +28,322 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Microarrays</title>
-		<link>/microarrays/</link>
+		<title>Particle Filters</title>
+		<link>/particle-filters/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 02 Sep 2022 14:00:20 +0000</pubDate>
+		<pubDate>Wed, 14 Sep 2022 11:13:16 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=7055</guid>
+		<guid isPermaLink="false">/?p=8419</guid>
 
-					<description><![CDATA[A technology that facilitates the simultaneous measurement of thousands of gene expression levels. A typical microarray experiment can produce millions of data points, and the statistical task is to efficiently reduce these numbers to simple summaries of genes’ structures.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7055" class="elementor elementor-7055">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-1ca6111 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1ca6111" data-element_type="section">
+					<description><![CDATA[<p>A simulation technique for tracking moving target distributions and for reducing the computational burden of a dynamic Bayesian analysis. The technique uses a Markov chain Monte Carlo method for sampling in order to obtain an evolving distribution, i.e., to adapt estimates of posterior distributions as new data arrive.</p>
+<p>The post <a rel="nofollow" href="/particle-filters/">Particle Filters</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8419" class="elementor elementor-8419">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-3797c6c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3797c6c" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7e6dfc1" data-id="7e6dfc1" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2273a2e" data-id="2273a2e" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-7619fa0 elementor-widget elementor-widget-text-editor" data-id="7619fa0" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-0041e02 elementor-widget elementor-widget-text-editor" data-id="0041e02" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.6.8 - 01-08-2022 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>A technology that facilitates the simultaneous measurement of thousands of gene expression levels. A typical microarray experiment can produce millions of data points, and the statistical task is to efficiently reduce these numbers to simple summaries of genes’ structures.</p>						</div>
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>A simulation technique for tracking moving target distributions and for reducing the computational burden of a dynamic Bayesian analysis. The technique uses a Markov chain Monte Carlo method for sampling in order to obtain an evolving distribution, i.e., to adapt estimates of posterior distributions as new data arrive.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		]]></content:encoded>
+		<p>The post <a rel="nofollow" href="/particle-filters/">Particle Filters</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Method of Moments</title>
-		<link>/method-of-moments/</link>
+		<title>Partial Residual Plot</title>
+		<link>/partial-residual-plot/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 02 Sep 2022 13:57:58 +0000</pubDate>
+		<pubDate>Wed, 14 Sep 2022 11:11:15 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=7049</guid>
+		<guid isPermaLink="false">/?p=8412</guid>
 
-					<description><![CDATA[A procedure for estimating the parameters in a model by equating sample moments to their population values. A famous early example of the use of the procedure is in Karl Pearson ’s description of estimating the five parameters in a finite mixture distribution with two univariate normal components.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7049" class="elementor elementor-7049">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-b3adb8f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b3adb8f" data-element_type="section">
+					<description><![CDATA[<p>A useful diagnostic tool in multiple regression, particularly for assessing whether a non linear term in one or other explanatory variable is needed in the model.</p>
+<p>The post <a rel="nofollow" href="/partial-residual-plot/">Partial Residual Plot</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8412" class="elementor elementor-8412">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-d5643a8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d5643a8" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-09a73e3" data-id="09a73e3" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-44ea4dd" data-id="44ea4dd" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-69ff939 elementor-widget elementor-widget-text-editor" data-id="69ff939" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-5f4e5bc elementor-widget elementor-widget-text-editor" data-id="5f4e5bc" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>A procedure for estimating the parameters in a model by equating sample moments to their population values. A famous early example of the use of the procedure is in Karl Pearson ’s description of estimating the five parameters in a finite mixture distribution with two univariate normal components.</p>						</div>
+							<p>A useful diagnostic tool in multiple regression, particularly for assessing whether a non linear term in one or other explanatory variable is needed in the model.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		]]></content:encoded>
+		<p>The post <a rel="nofollow" href="/partial-residual-plot/">Partial Residual Plot</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Meta-Analysis</title>
-		<link>/meta-analysis/</link>
+		<title>Partial Questionnaire Design</title>
+		<link>/partial-questionnaire-design/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 02 Sep 2022 13:55:46 +0000</pubDate>
+		<pubDate>Wed, 14 Sep 2022 11:09:26 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=7030</guid>
+		<guid isPermaLink="false">/?p=8407</guid>
 
-					<description><![CDATA[A collection of techniques whereby the results of two or more independent studies are statistically combined to yield an overall answer to a question of interest. The rationale behind this approach is to provide a test with more power than is provided by the separate studies themselves.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7030" class="elementor elementor-7030">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-e60fb3d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e60fb3d" data-element_type="section">
+					<description><![CDATA[<p>A procedure used in studies in epidemiology as an alternative to a lengthy questionnaire which can result in lower rates of participation by potential study subjects. Information about the exposure of interest is obtained from all subjects, but information about secondary variables is determined for only a fraction of study subjects.</p>
+<p>The post <a rel="nofollow" href="/partial-questionnaire-design/">Partial Questionnaire Design</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8407" class="elementor elementor-8407">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-3369a4b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3369a4b" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a487f9d" data-id="a487f9d" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e6406da" data-id="e6406da" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-916c0b3 elementor-widget elementor-widget-text-editor" data-id="916c0b3" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-9e57f95 elementor-widget elementor-widget-text-editor" data-id="9e57f95" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>A collection of techniques whereby the results of two or more independent studies are statistically combined to yield an overall answer to a question of interest. The rationale behind this approach is to provide a test with more power than is provided by the separate studies themselves.</p>						</div>
+							<p>A procedure used in studies in epidemiology as an alternative to a lengthy questionnaire which can result in lower rates of participation by potential study subjects. Information about the exposure of interest is obtained from all subjects, but information about secondary variables is determined for only a fraction of study subjects.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		]]></content:encoded>
+		<p>The post <a rel="nofollow" href="/partial-questionnaire-design/">Partial Questionnaire Design</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>M-Estimators</title>
-		<link>/m-estimators/</link>
+		<title>Partial likelihood</title>
+		<link>/partial-likelihood/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 02 Sep 2022 13:51:14 +0000</pubDate>
+		<pubDate>Wed, 14 Sep 2022 11:08:00 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=7027</guid>
+		<guid isPermaLink="false">/?p=8401</guid>
 
-					<description><![CDATA[Robust estimators of the parameters in statistical models. The name derives from ‘maximum likelihood like’ estimators.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7027" class="elementor elementor-7027">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-9923602 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9923602" data-element_type="section">
+					<description><![CDATA[<p>A product of conditional likelihoods, used in certain situations for estimation and hypothesis testing. The basis of estimation in Cox’s proportional hazards model.</p>
+<p>The post <a rel="nofollow" href="/partial-likelihood/">Partial likelihood</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8401" class="elementor elementor-8401">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-0178803 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0178803" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a9ad53" data-id="2a9ad53" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-edb910a" data-id="edb910a" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-f988758 elementor-widget elementor-widget-text-editor" data-id="f988758" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-741ad32 elementor-widget elementor-widget-text-editor" data-id="741ad32" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Robust estimators of the parameters in statistical models. The name derives from ‘maximum likelihood like’ estimators.</p>						</div>
+							<p>A product of conditional likelihoods, used in certain situations for estimation and hypothesis testing. The basis of estimation in Cox’s proportional hazards model.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		]]></content:encoded>
+		<p>The post <a rel="nofollow" href="/partial-likelihood/">Partial likelihood</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Measures of Association</title>
-		<link>/measures-of-association/</link>
+		<title>Partial Correlation</title>
+		<link>/partial-correlation/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 02 Sep 2022 13:48:47 +0000</pubDate>
+		<pubDate>Wed, 14 Sep 2022 11:06:24 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=7021</guid>
+		<guid isPermaLink="false">/?p=8395</guid>
 
-					<description><![CDATA[Numerical indices quantifying the strength of the statistical dependence of two or more qualitative variables.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7021" class="elementor elementor-7021">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-0e9cec8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0e9cec8" data-element_type="section">
+					<description><![CDATA[<p>The correlation between a pair of variables after adjusting for the effect of a third.</p>
+<p>The post <a rel="nofollow" href="/partial-correlation/">Partial Correlation</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8395" class="elementor elementor-8395">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-6e3b089 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6e3b089" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d47adc2" data-id="d47adc2" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-db31a11" data-id="db31a11" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-d0509e5 elementor-widget elementor-widget-text-editor" data-id="d0509e5" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-d608b15 elementor-widget elementor-widget-text-editor" data-id="d608b15" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Numerical indices quantifying the strength of the statistical dependence of two or more qualitative variables.</p>						</div>
+							<p>The correlation between a pair of variables after adjusting for the effect of a third.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		]]></content:encoded>
+		<p>The post <a rel="nofollow" href="/partial-correlation/">Partial Correlation</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Measurement Error</title>
-		<link>/measurement-error/</link>
+		<title>Partial Autocorrelation</title>
+		<link>/partial-autocorrelation/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 02 Sep 2022 13:43:27 +0000</pubDate>
+		<pubDate>Wed, 14 Sep 2022 11:04:22 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=7015</guid>
+		<guid isPermaLink="false">/?p=8389</guid>
 
-					<description><![CDATA[Errors in reading, calculating or recording a numerical value. The difference between observed values of a variable recorded under similar conditions and some fixed true value.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7015" class="elementor elementor-7015">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-f5162c4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f5162c4" data-element_type="section">
+					<description><![CDATA[<p>A measure of the correlation between the observations a particular number of time units apart in a time series, after controlling for the effects of observa tions at intermediate time points.</p>
+<p>The post <a rel="nofollow" href="/partial-autocorrelation/">Partial Autocorrelation</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8389" class="elementor elementor-8389">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-a6e7fd9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a6e7fd9" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4050c85" data-id="4050c85" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f29aadb" data-id="f29aadb" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-5a0ffff elementor-widget elementor-widget-text-editor" data-id="5a0ffff" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-c635bcb elementor-widget elementor-widget-text-editor" data-id="c635bcb" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Errors in reading, calculating or recording a numerical value. The difference <span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text );">between observed values of a variable recorded under similar conditions and some fixed true value.</span></p>						</div>
+							<p>A measure of the correlation between the observations a particular number of time units apart in a time series, after controlling for the effects of observa tions at intermediate time points.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		]]></content:encoded>
+		<p>The post <a rel="nofollow" href="/partial-autocorrelation/">Partial Autocorrelation</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Mean Vector</title>
-		<link>/mean-vector/</link>
+		<title>Parsimony Principle</title>
+		<link>/parsimony-principle/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 02 Sep 2022 13:41:14 +0000</pubDate>
+		<pubDate>Wed, 14 Sep 2022 11:00:03 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=7008</guid>
+		<guid isPermaLink="false">/?p=8382</guid>
 
-					<description><![CDATA[A vector containing the mean values of each variable in a set of multivariate data.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7008" class="elementor elementor-7008">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-ea4ab23 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ea4ab23" data-element_type="section">
+					<description><![CDATA[<p>The general principle that among competing models, all of which provide an adequate fit for a set of data, the one with the fewest parameters is to be preferred.</p>
+<p>The post <a rel="nofollow" href="/parsimony-principle/">Parsimony Principle</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8382" class="elementor elementor-8382">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-835f3c7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="835f3c7" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-aa9a94d" data-id="aa9a94d" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0d66f37" data-id="0d66f37" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-4749197 elementor-widget elementor-widget-text-editor" data-id="4749197" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-aee9cfd elementor-widget elementor-widget-text-editor" data-id="aee9cfd" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>A vector containing the mean values of each variable in a set of multivariate data.</p>						</div>
+							<p>The general principle that among competing models, all of which provide an adequate fit for a set of data, the one with the fewest parameters is to be preferred.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		]]></content:encoded>
+		<p>The post <a rel="nofollow" href="/parsimony-principle/">Parsimony Principle</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Mean Square Error Estimation</title>
-		<link>/mean-square-error-estimation/</link>
+		<title>Parking lot Test</title>
+		<link>/parking-lot-test/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 02 Sep 2022 13:38:42 +0000</pubDate>
+		<pubDate>Wed, 14 Sep 2022 10:57:06 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=7003</guid>
+		<guid isPermaLink="false">/?p=8374</guid>
 
-					<description><![CDATA[Estimation of the parameters in a model so as to minimize the mean square error.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="7003" class="elementor elementor-7003">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-bf469ba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bf469ba" data-element_type="section">
+					<description><![CDATA[<p>A test for assessing the quality of random number generators.</p>
+<p>The post <a rel="nofollow" href="/parking-lot-test/">Parking lot Test</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8374" class="elementor elementor-8374">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4b5bf73 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4b5bf73" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c9b2cd8" data-id="c9b2cd8" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bd18875" data-id="bd18875" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-3bfe5f7 elementor-widget elementor-widget-text-editor" data-id="3bfe5f7" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-e2f87ba elementor-widget elementor-widget-text-editor" data-id="e2f87ba" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Estimation of the parameters in a model so as to minimize the mean square error.</p>						</div>
+							<p>A test for assessing the quality of random number generators.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		]]></content:encoded>
+		<p>The post <a rel="nofollow" href="/parking-lot-test/">Parking lot Test</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Mean and Dispersion Additive Model (MADAM)</title>
-		<link>/mean-and-dispersion-additive-model-madam/</link>
+		<title>Pareto Plot</title>
+		<link>/pareto-plot/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 02 Sep 2022 13:33:40 +0000</pubDate>
+		<pubDate>Wed, 14 Sep 2022 10:55:30 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=6997</guid>
+		<guid isPermaLink="false">/?p=8367</guid>
 
-					<description><![CDATA[A flexible model for variance hetero geneity in a normal error model, in which both the mean and variance are modeled using semi parametric additive models.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6997" class="elementor elementor-6997">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-5dcbabd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5dcbabd" data-element_type="section">
+					<description><![CDATA[<p>A bar chart with the bars ordered according to decreasing frequency enhanced by a line joining points above each bar giving the cumulative frequency.</p>
+<p>The post <a rel="nofollow" href="/pareto-plot/">Pareto Plot</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8367" class="elementor elementor-8367">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-e4b0db5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e4b0db5" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d84b067" data-id="d84b067" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-61bb862" data-id="61bb862" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-214e0c4 elementor-widget elementor-widget-text-editor" data-id="214e0c4" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-c015f62 elementor-widget elementor-widget-text-editor" data-id="c015f62" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>A flexible model for variance hetero geneity in a normal error model, in which both the mean and variance are modeled using semi parametric additive models.</p>						</div>
+							<p>A bar chart with the bars ordered according to decreasing frequency enhanced by a line joining points above each bar giving the cumulative frequency.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		]]></content:encoded>
+		<p>The post <a rel="nofollow" href="/pareto-plot/">Pareto Plot</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>McCabe-Tremayne Test</title>
-		<link>/mccabe-tremayne-test/</link>
+		<title>Parametric Methods</title>
+		<link>/parametric-methods/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Fri, 02 Sep 2022 13:30:46 +0000</pubDate>
+		<pubDate>Wed, 14 Sep 2022 10:51:41 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=6989</guid>
+		<guid isPermaLink="false">/?p=8360</guid>
 
-					<description><![CDATA[ A test for the stationarity of particular types of time series.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="6989" class="elementor elementor-6989">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-4591f4d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4591f4d" data-element_type="section">
+					<description><![CDATA[<p>Procedures for testing hypotheses about parameters in a population described by a specified distributional form, often, a normal distribution. Student’s t test is an example of such a method.</p>
+<p>The post <a rel="nofollow" href="/parametric-methods/">Parametric Methods</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8360" class="elementor elementor-8360">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-45aebc6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="45aebc6" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e7a67b5" data-id="e7a67b5" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e352051" data-id="e352051" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-65b637c elementor-widget elementor-widget-text-editor" data-id="65b637c" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-f9aab0f elementor-widget elementor-widget-text-editor" data-id="f9aab0f" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p> A test for the stationarity of particular types of time series.</p>						</div>
+							<p>Procedures for testing hypotheses about parameters in a population described by a specified distributional form, often, a normal distribution. Student’s t test is an example of such a method.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		]]></content:encoded>
+		<p>The post <a rel="nofollow" href="/parametric-methods/">Parametric Methods</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></content:encoded>
 					
 		
 		
