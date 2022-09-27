@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 15 Sep 2022 15:03:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 Sep 2022 17:38:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,13 +30,17 @@
 	<item>
 		<title>Particle Filters</title>
 		<link>/particle-filters/</link>
+					<comments>/particle-filters/#comments</comments>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Wed, 14 Sep 2022 11:13:16 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
+		<category><![CDATA[particle filtering]]></category>
+		<category><![CDATA[particle filters]]></category>
+		<category><![CDATA[particle filters a monte carlo method]]></category>
 		<guid isPermaLink="false">/?p=8419</guid>
 
-					<description><![CDATA[<p>A simulation technique for tracking moving target distributions and for reducing the computational burden of a dynamic Bayesian analysis. The technique uses a Markov chain Monte Carlo method for sampling in order to obtain an evolving distribution, i.e., to adapt estimates of posterior distributions as new data arrive.</p>
+					<description><![CDATA[<p>Particle Filters is a simulation technique for tracking moving target distributions and for reducing the computational burden of a dynamic Bayesian analysis. The technique uses a Markov chain Monte Carlo method for sampling in order to obtain an evolving distribution, i.e., to adapt estimates of posterior distributions as new data arrive.</p>
 <p>The post <a rel="nofollow" href="/particle-filters/">Particle Filters</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8419" class="elementor elementor-8419">
@@ -47,7 +51,7 @@
 								<div class="elementor-element elementor-element-0041e02 elementor-widget elementor-widget-text-editor" data-id="0041e02" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.6.8 - 01-08-2022 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>A simulation technique for tracking moving target distributions and for reducing the computational burden of a dynamic Bayesian analysis. The technique uses a Markov chain Monte Carlo method for sampling in order to obtain an evolving distribution, i.e., to adapt estimates of posterior distributions as new data arrive.</p>						</div>
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Particle Filters is a simulation technique for tracking moving target distributions. It is used for reducing the computational burden of a dynamic Bayesian analysis. The technique uses a Markov chain Monte Carlo method for sampling in order to obtain an evolving distribution, i.e., to adapt estimates of posterior distributions as new data arrive.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -57,6 +61,8 @@
 		<p>The post <a rel="nofollow" href="/particle-filters/">Particle Filters</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></content:encoded>
 					
+					<wfw:commentRss>/particle-filters/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
@@ -67,9 +73,12 @@
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Wed, 14 Sep 2022 11:11:15 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
+		<category><![CDATA[data as a second language]]></category>
+		<category><![CDATA[partial residual plot]]></category>
+		<category><![CDATA[partial residualplot in applied physics]]></category>
 		<guid isPermaLink="false">/?p=8412</guid>
 
-					<description><![CDATA[<p>A useful diagnostic tool in multiple regression, particularly for assessing whether a non linear term in one or other explanatory variable is needed in the model.</p>
+					<description><![CDATA[<p>Partial&#160;Residual Plot is a useful diagnostic tool in multiple regression. It is particularly for assessing whether a non linear term in one or other explanatory variable is needed in the model.</p>
 <p>The post <a rel="nofollow" href="/partial-residual-plot/">Partial Residual Plot</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8412" class="elementor elementor-8412">
@@ -79,7 +88,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5f4e5bc elementor-widget elementor-widget-text-editor" data-id="5f4e5bc" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>A useful diagnostic tool in multiple regression, particularly for assessing whether a non linear term in one or other explanatory variable is needed in the model.</p>						</div>
+							<p>Partial&nbsp;<span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text );">Residual Plot is a useful diagnostic tool in multiple regression. It is particularly for assessing whether a non linear term in one or other explanatory variable is needed in the model.</span></p><a href="/particle-filters/" target="_blank"></a><p><br></p>						</div>
 				</div>
 					</div>
 		</div>
@@ -99,9 +108,12 @@
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Wed, 14 Sep 2022 11:09:26 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
+		<category><![CDATA[data as a second language]]></category>
+		<category><![CDATA[partial questionnaire design]]></category>
+		<category><![CDATA[partial questionnaire design difinition]]></category>
 		<guid isPermaLink="false">/?p=8407</guid>
 
-					<description><![CDATA[<p>A procedure used in studies in epidemiology as an alternative to a lengthy questionnaire which can result in lower rates of participation by potential study subjects. Information about the exposure of interest is obtained from all subjects, but information about secondary variables is determined for only a fraction of study subjects.</p>
+					<description><![CDATA[<p>Partial Questionnaire Design is a procedure used in studies in epidemiology as an alternative to a lengthy questionnaire which can result in lower rates of participation by potential study subjects. Information about the exposure of interest is obtained from all subjects, but information about secondary variables is determined for only a fraction of study subjects.</p>
 <p>The post <a rel="nofollow" href="/partial-questionnaire-design/">Partial Questionnaire Design</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8407" class="elementor elementor-8407">
@@ -111,7 +123,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-9e57f95 elementor-widget elementor-widget-text-editor" data-id="9e57f95" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>A procedure used in studies in epidemiology as an alternative to a lengthy questionnaire which can result in lower rates of participation by potential study subjects. Information about the exposure of interest is obtained from all subjects, but information about secondary variables is determined for only a fraction of study subjects.</p>						</div>
+							<p>Partial Questionnaire Design is a procedure used in studies in epidemiology as an alternative to a lengthy questionnaire which can result in lower rates of participation by potential study subjects. Information about the exposure of interest is obtained from all subjects, but information about secondary variables is determined for only a fraction of study subjects.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -131,9 +143,12 @@
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Wed, 14 Sep 2022 11:08:00 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
+		<category><![CDATA[Cox Proportional Hazard Model]]></category>
+		<category><![CDATA[partial likelihood]]></category>
+		<category><![CDATA[partial likelihood Cox Proportional Hazard Model]]></category>
 		<guid isPermaLink="false">/?p=8401</guid>
 
-					<description><![CDATA[<p>A product of conditional likelihoods, used in certain situations for estimation and hypothesis testing. The basis of estimation in Cox’s proportional hazards model.</p>
+					<description><![CDATA[<p>Partial likelihood is a product of conditional likelihoods, used in certain situations for estimation and hypothesis testing. The basis of estimation in Cox’s proportional hazards model.</p>
 <p>The post <a rel="nofollow" href="/partial-likelihood/">Partial likelihood</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8401" class="elementor elementor-8401">
@@ -143,7 +158,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-741ad32 elementor-widget elementor-widget-text-editor" data-id="741ad32" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>A product of conditional likelihoods, used in certain situations for estimation and hypothesis testing. The basis of estimation in Cox’s proportional hazards model.</p>						</div>
+							<p>Partial likelihood is a product of conditional likelihoods, used in certain situations for estimation and hypothesis testing. The basis of estimation in Cox’s proportional hazards model.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -163,9 +178,13 @@
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Wed, 14 Sep 2022 11:06:24 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
+		<category><![CDATA[partial correlation]]></category>
+		<category><![CDATA[partial correlation in statistics]]></category>
+		<category><![CDATA[probability]]></category>
+		<category><![CDATA[statistics]]></category>
 		<guid isPermaLink="false">/?p=8395</guid>
 
-					<description><![CDATA[<p>The correlation between a pair of variables after adjusting for the effect of a third.</p>
+					<description><![CDATA[<p>Partial Correlation is the correlation between a pair of variables after adjusting for the effect of a third.</p>
 <p>The post <a rel="nofollow" href="/partial-correlation/">Partial Correlation</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8395" class="elementor elementor-8395">
@@ -175,7 +194,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d608b15 elementor-widget elementor-widget-text-editor" data-id="d608b15" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>The correlation between a pair of variables after adjusting for the effect of a third.</p>						</div>
+							<p>Partial Correlation is the correlation between a pair of variables after adjusting for the effect of a third.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -195,9 +214,12 @@
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Wed, 14 Sep 2022 11:04:22 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
+		<category><![CDATA[Autocorrelation]]></category>
+		<category><![CDATA[data as a second language]]></category>
+		<category><![CDATA[Partial Autocorrelation]]></category>
 		<guid isPermaLink="false">/?p=8389</guid>
 
-					<description><![CDATA[<p>A measure of the correlation between the observations a particular number of time units apart in a time series, after controlling for the effects of observa tions at intermediate time points.</p>
+					<description><![CDATA[<p>Partial Autocorrelation is a measure of the correlation between the observations a particular number of time units apart in a time series, after controlling for the effects of observations at intermediate time points.</p>
 <p>The post <a rel="nofollow" href="/partial-autocorrelation/">Partial Autocorrelation</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8389" class="elementor elementor-8389">
@@ -207,7 +229,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-c635bcb elementor-widget elementor-widget-text-editor" data-id="c635bcb" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>A measure of the correlation between the observations a particular number of time units apart in a time series, after controlling for the effects of observa tions at intermediate time points.</p>						</div>
+							<p>Partial Autocorrelation is a measure of the correlation between the observations a particular number of time units apart in a time series, after controlling for the effects of observations at intermediate time points.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -227,9 +249,12 @@
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Wed, 14 Sep 2022 11:00:03 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
+		<category><![CDATA[data as a second language]]></category>
+		<category><![CDATA[Parsimony]]></category>
+		<category><![CDATA[Parsimony Principle]]></category>
 		<guid isPermaLink="false">/?p=8382</guid>
 
-					<description><![CDATA[<p>The general principle that among competing models, all of which provide an adequate fit for a set of data, the one with the fewest parameters is to be preferred.</p>
+					<description><![CDATA[<p>Parsimony Principle is the general principle that among competing models, all of which provide an adequate fit for a set of data, the one with the fewest parameters is to be preferred.</p>
 <p>The post <a rel="nofollow" href="/parsimony-principle/">Parsimony Principle</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8382" class="elementor elementor-8382">
@@ -239,7 +264,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-aee9cfd elementor-widget elementor-widget-text-editor" data-id="aee9cfd" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>The general principle that among competing models, all of which provide an adequate fit for a set of data, the one with the fewest parameters is to be preferred.</p>						</div>
+							<p>Parsimony Principle is the general principle that among competing models, all of which provide an adequate fit for a set of data, the one with the fewest parameters is to be preferred.</p>						</div>
 				</div>
 					</div>
 		</div>
