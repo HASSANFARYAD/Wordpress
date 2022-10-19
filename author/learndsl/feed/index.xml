@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2022/07/cropped-DSL_Icon_Purple-32x32.png</url>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Particle Filters</title>
 		<link>/particle-filters/</link>
-					<comments>/particle-filters/#comments</comments>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
 		<pubDate>Wed, 14 Sep 2022 11:13:16 +0000</pubDate>
@@ -61,8 +60,6 @@
 		<p>The post <a rel="nofollow" href="/particle-filters/">Particle Filters</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/particle-filters/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>

@@ -11,25 +11,11 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 20 Sep 2022 14:29:44 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2022 15:01:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
-	<item>
-		<title>
-		Comment on Particle Filters by Partial Residual Plot - Applied Physics - Data as a Second Language		</title>
-		<link>/particle-filters/#comment-2</link>
-
-		<dc:creator><![CDATA[Partial Residual Plot - Applied Physics - Data as a Second Language]]></dc:creator>
-		<pubDate>Tue, 20 Sep 2022 14:29:44 +0000</pubDate>
-		<guid isPermaLink="false">/?p=8419#comment-2</guid>
-
-					<description><![CDATA[[&#8230;] Partial Residual Plot is a useful diagnostic tool in multiple regression. It is particularly for assessing whether a non linear term in one or other explanatory variable is needed in the model. [&#8230;]]]></description>
-			<content:encoded><![CDATA[<p>[&#8230;] Partial Residual Plot is a useful diagnostic tool in multiple regression. It is particularly for assessing whether a non linear term in one or other explanatory variable is needed in the model. [&#8230;]</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+</channel>
 </rss>
