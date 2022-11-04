@@ -4,7 +4,7 @@ Theme URI: https://zakratheme.com/
 Author: ThemeGrill
 Author URI: https://themegrill.com
 Description: Zakra is flexible, fast, lightweight and modern multipurpose theme that comes with many starter free sites (currently 10+ free starter sites and more will be added later) that you can use to make your site beautiful and professional. Check all the starter sites at https://zakratheme.com/demos. Suitable for personal blog, portfolio, WooCommerce stores, business websites and niche-based sites (like Cafe, Spa, Charity, Yoga, Wedding, Dentist, Education etc) as well. Works with Elementor plus other major page builders so you can create any layout you want. The theme is responsive, Gutenberg compatible, SEO friendly, translation ready and major WordPress plugins compatible.
-Version: 2.1.6
+Version: 2.1.7
 Tested up to: 6.0
 Requires PHP: 5.6
 License: GPLv3 or later
@@ -607,11 +607,11 @@ body.has-transparent-header.elementor-editor-active .tg-site-header {
 	padding: 0;
 }
 
-.page-template-pagebuilder a {
+.pagebuilder-content a {
 	color: #269bd1;
 }
 
-.page-template-pagebuilder a:hover, .page-template-pagebuilder a:focus {
+.pagebuilder-content a:hover, .pagebuilder-content a:focus {
 	color: #1e7ba6;
 }
 
@@ -1560,7 +1560,8 @@ input[type="submit"],
 button:hover,
 input[type="button"]:hover,
 input[type="reset"]:hover,
-input[type="submit"]:hover {
+input[type="submit"]:hover,
+.wp-block-button .wp-block-button__link:hover {
 	background-color: #1e7ba6;
 	color: #fff;
 }
@@ -2689,4 +2690,47 @@ body .tg-oembed-container * {
 .tg-mobile-toggle .tg-icon-bars {
 	font-size: 1.5rem;
 	line-height: 1.2;
+}
+
+.wp-block-columns {
+	padding-top: 3em;
+	padding-right: 2em;
+	padding-bottom: 3em;
+	padding-left: 2em;
+}
+
+.wp-block-media-text .wp-block-media-text__content {
+	padding: 0 0 0 8%;
+}
+
+.wp-block-media-text.has-media-on-the-right .wp-block-media-text__content {
+	padding: 0 8% 0 0;
+}
+
+.widget ul.wp-block-social-links li:last-child {
+	border-bottom: 1px solid #e9ecef;
+}
+
+ul.wp-block-post-template {
+	margin: 0;
+}
+
+@media (max-width: 768px) {
+	.wp-block-group,
+	.wp-block-cover {
+		padding: 2em;
+	}
+}
+
+@media (max-width: 600px) {
+	.wp-block-media-text.has-media-on-the-right .wp-block-media-text__content {
+		padding: 0;
+	}
+	.wp-block-media-text .wp-block-media-text__content {
+		padding: 0;
+	}
+}
+
+.zakra-border-radius-img-inside--20 img {
+	border-radius: 20px;
 }

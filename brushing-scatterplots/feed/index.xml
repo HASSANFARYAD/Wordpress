@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments on: Error Rate	</title>
-	<atom:link href="/error-rate/feed/" rel="self" type="application/rss+xml" />
-	<link>/error-rate/</link>
+	Comments on: Brushing Scatterplots	</title>
+	<atom:link href="/brushing-scatterplots/feed/" rel="self" type="application/rss+xml" />
+	<link>/brushing-scatterplots/</link>
 	<description></description>
-	<lastBuildDate>Tue, 30 Aug 2022 12:09:41 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Aug 2022 16:26:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 </channel>
 </rss>
