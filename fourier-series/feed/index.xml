@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments on: NoSQL	</title>
-	<atom:link href="/nosql/feed/" rel="self" type="application/rss+xml" />
-	<link>/nosql/</link>
+	Comments on: Fourier Series	</title>
+	<atom:link href="/fourier-series/feed/" rel="self" type="application/rss+xml" />
+	<link>/fourier-series/</link>
 	<description></description>
-	<lastBuildDate>Fri, 29 Jul 2022 15:48:24 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 30 Aug 2022 11:40:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
