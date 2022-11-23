@@ -11,11 +11,11 @@
 	<atom:link href="/additive-effect/feed/" rel="self" type="application/rss+xml" />
 	<link>/additive-effect/</link>
 	<description></description>
-	<lastBuildDate>Tue, 30 Aug 2022 18:08:45 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Nov 2022 12:42:38 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 </channel>
 </rss>
