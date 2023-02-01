@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>multivariate testing &#8211; Data as a Second Language</title>
+	<atom:link href="/tag/multivariate-testing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 29 Jan 2023 09:27:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/07/cropped-DSL_Icon_Purple-32x32.png</url>
+	<title>multivariate testing &#8211; Data as a Second Language</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A/B Testing</title>
+		<link>/a-b-testing/</link>
+		
+		<dc:creator><![CDATA[learndsl]]></dc:creator>
+		<pubDate>Mon, 18 Jul 2022 01:48:47 +0000</pubDate>
+				<category><![CDATA[Dictionary Definition]]></category>
+		<category><![CDATA[A/B testing]]></category>
+		<category><![CDATA[multivariate testing]]></category>
+		<guid isPermaLink="false">/?p=878</guid>
+
+					<description><![CDATA[<p>A/B testing is a statistical way of comparing two or more techniques &#8211; the &#8220;A&#8221; and the &#8220;B&#8221; &#8211; typically an incumbent against a new rival. A/B testing determines not only which technique performs better but also to understand whether the difference is statistically significant. A/B testing usually considers only two techniques using one measurement, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/a-b-testing/">A/B Testing</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="878" class="elementor elementor-878">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-45d14d01 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="45d14d01" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5661c516" data-id="5661c516" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-129a063 elementor-widget elementor-widget-text-editor" data-id="129a063" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.10.2 - 29-01-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>A/B testing is a statistical way of comparing two or more techniques &#8211; the &#8220;A&#8221; and the &#8220;B&#8221; &#8211; typically an incumbent against a new rival. A/B testing determines not only which technique performs better but also to understand whether the difference is statistically significant. A/B testing usually considers only two techniques using one measurement, but it can be applied to any finite number of techniques and measurements. A/B testing is often used to optimise web marketing strategies. For instance, A and B can be the two alternative designs and the website visitors are provided with either of the two designs randomly. Then, using web analytics, their activity data is collected and assessed using statistical tests. This is how A/B testing can be used to compare the efficacy of the two web designs and aids in better decision-making. Similarly, one can use A/B testing in different controlled experiment scenarios, like testing the efficacy of new features in the products and services. To undertake A/B testing, the null and alternate hypotheses are created, like the efficacy of the new design is not better than the old design. Here two groups, A and B are designed, such that one is controlled and the other is a test group. Alternatively, two different designs can be compared.&nbsp;<br></p>
+<h3><b>Application of A/B Testing</b></h3>
+<p><span style="color: var( --e-global-color-text ); font-style: inherit; font-weight: inherit;">The application of A/B testing is possible in different cases, like UX changes, added features, rankings and page load times, wherein the performance of new changes is compared to facilitate effective decision-making. Generally, A/B testing may not work well with major changes in the tests, like in the launch of new products or services, new branding or when entirely new user experiences are created. It is mostly because these major changes may trigger the users to behave differently since they require higher-than-normal engagement and emotional user response.</span><br></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		<p>The post <a rel="nofollow" href="/a-b-testing/">A/B Testing</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

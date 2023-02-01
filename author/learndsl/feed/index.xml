@@ -12,7 +12,7 @@
 	<atom:link href="/author/learndsl/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 22 Sep 2022 17:38:24 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Jan 2023 09:30:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,343 +28,369 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Particle Filters</title>
-		<link>/particle-filters/</link>
+		<title>Dynamic Population Modeling</title>
+		<link>/dynamic-population-modeling/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Wed, 14 Sep 2022 11:13:16 +0000</pubDate>
+		<pubDate>Wed, 31 Aug 2022 08:59:50 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<category><![CDATA[particle filtering]]></category>
-		<category><![CDATA[particle filters]]></category>
-		<category><![CDATA[particle filters a monte carlo method]]></category>
-		<guid isPermaLink="false">/?p=8419</guid>
+		<guid isPermaLink="false">/?p=5416</guid>
 
-					<description><![CDATA[<p>Particle Filters is a simulation technique for tracking moving target distributions and for reducing the computational burden of a dynamic Bayesian analysis. The technique uses a Markov chain Monte Carlo method for sampling in order to obtain an evolving distribution, i.e., to adapt estimates of posterior distributions as new data arrive.</p>
-<p>The post <a rel="nofollow" href="/particle-filters/">Particle Filters</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+					<description><![CDATA[<p>Dynamic population modeling is the process of developing mathematical models that can be used to measure, simulate and predict the dynamics of a given population. It is a powerful tool for understanding how populations change over time and in response to external factors such as environmental conditions, resource availability, and human activity. Dynamic population modeling [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/dynamic-population-modeling/">Dynamic Population Modeling</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8419" class="elementor elementor-8419">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-3797c6c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3797c6c" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5416" class="elementor elementor-5416">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-87f6b96 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="87f6b96" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2273a2e" data-id="2273a2e" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-959060e" data-id="959060e" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-0041e02 elementor-widget elementor-widget-text-editor" data-id="0041e02" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-a7a7769 elementor-widget elementor-widget-text-editor" data-id="a7a7769" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.8.1 - 13-11-2022 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Particle Filters is a simulation technique for tracking moving target distributions. It is used for reducing the computational burden of a dynamic Bayesian analysis. The technique uses a Markov chain Monte Carlo method for sampling in order to obtain an evolving distribution, i.e., to adapt estimates of posterior distributions as new data arrive.</p>						</div>
+			<style>/*! elementor - v3.10.2 - 29-01-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Dynamic population modeling is the process of developing mathematical models that can be used to measure, simulate and predict the dynamics of a given population. It is a powerful tool for understanding how populations change over time and in response to external factors such as environmental conditions, resource availability, and human activity. Dynamic population modeling helps us better understand how changes in one part of a system can influence another part of the system and ultimately help us make more informed decisions about how to manage our resources.&nbsp;</p>
+<p>Dynamic population modeling involves using mathematical equations to capture and describe the behavior of a given population over time. The equations represent relationships between different components of the population, including mortality rates, fertility rates, migration patterns, and other demographic variables. A model will take into account many different factors that affect a population’s growth rate, including birth rate and death rate, migration patterns, age structure of the population, disease prevalence etc. By inputting data on these various factors into the model, it is possible to simulate how a population might change in response to different scenarios.&nbsp;</p>
+<h3><b>Uses of Dynamic Population Modeling</b></h3>
+<p>Dynamic population modeling can be used for many applications related to public health or conservation management. For example, it could be used to model epidemics or study changing animal populations in response to climate change or human development projects. Similarly, dynamic models can also be applied to evaluate public policies by simulating their hypothetical effects on society at large. Dynamic population modeling provides valuable insights into how populations respond to external pressures such as climate change or land use changes.&nbsp;</p>
+<p>By studying what happens when certain variables are changed within a model environment it is possible to plan strategies for sustainable management of natural resources or devise measures for mitigating public health risks before they become reality. With dynamic models becoming increasingly more sophisticated there are now opportunities for accurately predicting future trends in any given environment &#8211; this opens up exciting new possibilities in terms of providing solutions that may prevent further degradation of ecosystems or help us better prepare for potential disasters.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/particle-filters/">Particle Filters</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+		<p>The post <a rel="nofollow" href="/dynamic-population-modeling/">Dynamic Population Modeling</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Partial Residual Plot</title>
-		<link>/partial-residual-plot/</link>
+		<title>Dynamic Panel Data Model</title>
+		<link>/dynamic-panel-data-model/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Wed, 14 Sep 2022 11:11:15 +0000</pubDate>
+		<pubDate>Wed, 31 Aug 2022 08:57:53 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<category><![CDATA[data as a second language]]></category>
-		<category><![CDATA[partial residual plot]]></category>
-		<category><![CDATA[partial residualplot in applied physics]]></category>
-		<guid isPermaLink="false">/?p=8412</guid>
+		<guid isPermaLink="false">/?p=5407</guid>
 
-					<description><![CDATA[<p>Partial&#160;Residual Plot is a useful diagnostic tool in multiple regression. It is particularly for assessing whether a non linear term in one or other explanatory variable is needed in the model.</p>
-<p>The post <a rel="nofollow" href="/partial-residual-plot/">Partial Residual Plot</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+					<description><![CDATA[<p>Dynamic panel data models are a subset of econometric models that examine the relationship between time-dependent variables and cross-sectional units. These models are typically used to analyze the effects of varying factors over time on individual units, such as how changes in a population&#8217;s income affect their level of well-being or how changes in government [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/dynamic-panel-data-model/">Dynamic Panel Data Model</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8412" class="elementor elementor-8412">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-d5643a8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d5643a8" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5407" class="elementor elementor-5407">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-2d42e8a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d42e8a" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-44ea4dd" data-id="44ea4dd" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f6c0103" data-id="f6c0103" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-5f4e5bc elementor-widget elementor-widget-text-editor" data-id="5f4e5bc" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-65be8c8 elementor-widget elementor-widget-text-editor" data-id="65be8c8" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Partial&nbsp;<span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text );">Residual Plot is a useful diagnostic tool in multiple regression. It is particularly for assessing whether a non linear term in one or other explanatory variable is needed in the model.</span></p><a href="/particle-filters/" target="_blank"></a><p><br></p>						</div>
+							<p>Dynamic panel data models are a subset of econometric models that examine the relationship between time-dependent variables and cross-sectional units. These models are typically used to analyze the effects of varying factors over time on individual units, such as how changes in a population&#8217;s income affect their level of well-being or how changes in government policies influence economic growth.</p>
+<h3><b>Dynamic Panel Data Model &amp; Other Models</b>&nbsp;</h3>
+<p>The primary difference between dynamic panel data models and traditional panel data models is that the former focuses on both the temporal and cross-sectional dimensions of a given phenomenon. In traditional panel data analysis, researchers look at the effects of various factors (such as demographic characteristics or policy interventions) on individuals over time by simply comparing outcomes across different points in time. Dynamic panel data models, however, also account for unobserved heterogeneity (i.e., differences in outcome that can&#8217;t be explained by observable features) among individual units and allow researchers to estimate how these unobservable factors influence outcomes over time. This type of model is particularly useful for analyzing long-term behavior in which unobserved factors may play an important role. Dynamic panel data models can be further categorized into two types: fixed effects and random effects.&nbsp;</p>
+<p>In a fixed effect model, researchers assume that all individuals within a given population share the same underlying parameters and examine how this shared set of parameters affects outcomes across different periods or cohorts. Conversely, random effect models allow researchers to disentangle the shared parameters from individual-level variation, enabling them to more accurately measure the effects of individual characteristics on outcomes over time.&nbsp;</p>
+<p>Since dynamic panel data models are capable of capturing complex relationships between variables and longitudinal changes within populations, they have become increasingly popular tools for social scientists studying various fields such as economics, public health, education, psychology and sociology. By allowing researchers to better understand how individual characteristics interact with changing circumstances over time, these types of analyses can provide valuable insights into why certain phenomena occur and potentially help guide policymakers in making informed decisions about how best to address social concerns.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/partial-residual-plot/">Partial Residual Plot</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+		<p>The post <a rel="nofollow" href="/dynamic-panel-data-model/">Dynamic Panel Data Model</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Partial Questionnaire Design</title>
-		<link>/partial-questionnaire-design/</link>
+		<title>Dynamic Graphics</title>
+		<link>/dynamic-graphics/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Wed, 14 Sep 2022 11:09:26 +0000</pubDate>
+		<pubDate>Wed, 31 Aug 2022 08:55:38 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<category><![CDATA[data as a second language]]></category>
-		<category><![CDATA[partial questionnaire design]]></category>
-		<category><![CDATA[partial questionnaire design difinition]]></category>
-		<guid isPermaLink="false">/?p=8407</guid>
+		<guid isPermaLink="false">/?p=5401</guid>
 
-					<description><![CDATA[<p>Partial Questionnaire Design is a procedure used in studies in epidemiology as an alternative to a lengthy questionnaire which can result in lower rates of participation by potential study subjects. Information about the exposure of interest is obtained from all subjects, but information about secondary variables is determined for only a fraction of study subjects.</p>
-<p>The post <a rel="nofollow" href="/partial-questionnaire-design/">Partial Questionnaire Design</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+					<description><![CDATA[<p>Dynamic graphics, also referred to as data visualization, is a type of computer-generated graphic whose visual representation is derived from data that can change over time. This method of visualizing information makes it possible to quickly identify trends and patterns in large datasets. It allows for the exploration of complex relationships between different variables and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/dynamic-graphics/">Dynamic Graphics</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8407" class="elementor elementor-8407">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-3369a4b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3369a4b" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5401" class="elementor elementor-5401">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-96d7f75 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="96d7f75" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e6406da" data-id="e6406da" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-71a37ca" data-id="71a37ca" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-9e57f95 elementor-widget elementor-widget-text-editor" data-id="9e57f95" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-5e3138d elementor-widget elementor-widget-text-editor" data-id="5e3138d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Partial Questionnaire Design is a procedure used in studies in epidemiology as an alternative to a lengthy questionnaire which can result in lower rates of participation by potential study subjects. Information about the exposure of interest is obtained from all subjects, but information about secondary variables is determined for only a fraction of study subjects.</p>						</div>
+							<p>Dynamic graphics, also referred to as data visualization, is a type of computer-generated graphic whose visual representation is derived from data that can change over time. This method of visualizing information makes it possible to quickly identify trends and patterns in large datasets. It allows for the exploration of complex relationships between different variables and helps us to understand how they are related.&nbsp;</p>
+<h3><b>Uses of Dynamic Graphics</b></h3>
+<p>Dynamic graphics are used in many different fields including science, economics, engineering, journalism, business intelligence, and education. Dynamic graphics use various technologies such as 3D modelling, animation, interactivity and game engines to create compelling visual results from the underlying data. This type of visualization allows users to quickly identify patterns that may not be apparent through examination of static images or tables.</p>
+<p><span style="color: var( --e-global-color-text );">Dynamic graphics may also be used in other types of applications such as medical imaging or environmental monitoring systems where real-time feedback must be provided quickly while still allowing users to explore the underlying data in detail. This type of visualization has become increasingly popular due to its ability to help users gain insights into their data without having to guess or rely solely on intuition. For example, weather forecasting software uses dynamic graphics technology so that meteorologists can visualize atmospheric conditions over time more efficiently than before.</span>&nbsp;</p>
+<h3><b>Benefits of using Dynamic Graphics</b></h3>
+<p>Through the use of advanced graphical techniques such as scale-dependent display rules and zooming effects, dynamic graphics can provide an intuitive way for users to explore and understand large amounts of data quickly.&nbsp;</p>
+<p>In addition to helping identify trends or patterns that may be hidden in large datasets, dynamic graphics have also been used to improve decision making by providing meaningful information in a more visually appealing format than traditional charts or graphs. By providing more context for complex information – such as a map showing locations of stores with varying levels of customer satisfaction – dynamic graphics can help managers make decisions faster and more effectively by enabling them to see relationships between multiple variables at once.&nbsp;<span style="font-style: inherit; font-weight: inherit; color: var( --e-global-color-text );">&nbsp;</span></p>
+<h3><b>Conclusion</b></h3>
+<p>In conclusion, dynamic graphics are an important tool for exploring complex relationships between variables quickly and effectively by using sophisticated techniques such as 3D modelling and animation technology. Whether it’s used in decision making processes or medical imaging applications – this type of visualization provides an intuitive way for users to explore large datasets efficiently while gaining insights into the underlying data at the same time.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/partial-questionnaire-design/">Partial Questionnaire Design</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+		<p>The post <a rel="nofollow" href="/dynamic-graphics/">Dynamic Graphics</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Partial likelihood</title>
-		<link>/partial-likelihood/</link>
+		<title>Dynamic Allocation Indices</title>
+		<link>/dynamic-allocation-indices/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Wed, 14 Sep 2022 11:08:00 +0000</pubDate>
+		<pubDate>Wed, 31 Aug 2022 08:51:52 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<category><![CDATA[Cox Proportional Hazard Model]]></category>
-		<category><![CDATA[partial likelihood]]></category>
-		<category><![CDATA[partial likelihood Cox Proportional Hazard Model]]></category>
-		<guid isPermaLink="false">/?p=8401</guid>
+		<guid isPermaLink="false">/?p=5391</guid>
 
-					<description><![CDATA[<p>Partial likelihood is a product of conditional likelihoods, used in certain situations for estimation and hypothesis testing. The basis of estimation in Cox’s proportional hazards model.</p>
-<p>The post <a rel="nofollow" href="/partial-likelihood/">Partial likelihood</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+					<description><![CDATA[<p>Dynamic allocation indices are a type of financial index that provide an opportunity for investors to actively adjust the level of risk they take on in their portfolios. These indices make use of a dynamic allocation strategy which seeks to rebalance the portfolio&#8217;s asset weights in response to changing market conditions or economic outlooks. This [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/dynamic-allocation-indices/">Dynamic Allocation Indices</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8401" class="elementor elementor-8401">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-0178803 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0178803" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="5391" class="elementor elementor-5391">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-cad0976 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cad0976" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-edb910a" data-id="edb910a" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-93c8c5c" data-id="93c8c5c" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-741ad32 elementor-widget elementor-widget-text-editor" data-id="741ad32" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-c7f9717 elementor-widget elementor-widget-text-editor" data-id="c7f9717" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Partial likelihood is a product of conditional likelihoods, used in certain situations for estimation and hypothesis testing. The basis of estimation in Cox’s proportional hazards model.</p>						</div>
+							<p>Dynamic allocation indices are a type of financial index that provide an opportunity for investors to actively adjust the level of risk they take on in their portfolios. These indices make use of a dynamic allocation strategy which seeks to rebalance the portfolio&#8217;s asset weights in response to changing market conditions or economic outlooks. This feature allows investors to be more proactive and responsive when it comes to managing their portfolios, as well as providing them with greater control over the amount of risk they take on.&nbsp;</p>
+<p>The <b>concept behind dynamic allocation</b> indices is relatively straightforward. Investors will initially determine their desired asset exposure and then allocate their capital accordingly. This initial weighting is based upon the investor&#8217;s goals, such as seeking capital appreciation or income generation. After the initial investment has been made, the index will then monitor the markets and automatically adjust its allocations in relation to changes within these markets or economic conditions. Rebalancing may involve either adding more exposure to certain assets, or reducing exposure from others if certain indicators suggest that there is an increased potential for downside risk.&nbsp;</p>
+<p>It is important for investors to recognize that dynamic allocation indices are not a “set it and forget it” investment tool, but rather a long-term strategy that requires active monitoring and adjustment over time in order to maximize returns while keeping risk at acceptable levels. As such, these types of investments often require significant commitment both in terms of time and resources from investors in order to ensure proper management of the portfolio. Additionally, due to the nature of these dynamic strategies, investors must also recognize that there can be times where performance may lag benchmarks due simply to changes within markets or overall economic conditions; however, this should not be seen as a reason for concern if the long-term goals remain intact and achievable.&nbsp;</p>
+<p>Overall, dynamic allocation indices are an increasingly popular option among many long-term investors looking for added flexibility in managing their portfolios while still attempting to reach specific objectives. With careful research into each available index option as well as ongoing monitoring afterwards, there is potential for both growth opportunities and reduced risk through strategic decision making and by taking advantage of shifting market trends when they arise.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/partial-likelihood/">Partial likelihood</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+		<p>The post <a rel="nofollow" href="/dynamic-allocation-indices/">Dynamic Allocation Indices</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Partial Correlation</title>
-		<link>/partial-correlation/</link>
+		<title>Ecological Fallacy</title>
+		<link>/ecological-fallacy/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Wed, 14 Sep 2022 11:06:24 +0000</pubDate>
+		<pubDate>Tue, 02 Aug 2022 11:45:54 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<category><![CDATA[partial correlation]]></category>
-		<category><![CDATA[partial correlation in statistics]]></category>
-		<category><![CDATA[probability]]></category>
-		<category><![CDATA[statistics]]></category>
-		<guid isPermaLink="false">/?p=8395</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=4429</guid>
 
-					<description><![CDATA[<p>Partial Correlation is the correlation between a pair of variables after adjusting for the effect of a third.</p>
-<p>The post <a rel="nofollow" href="/partial-correlation/">Partial Correlation</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+					<description><![CDATA[<p>The Ecological Fallacy is a phenomenon that occurs when a researcher draws conclusions based on aggregate data, rather than individual-level information. This type of fallacy can lead to erroneous interpretations of the underlying relationships between variables and can have important implications, in particular when making decisions about public policy or social interventions.&#160; At its core, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/ecological-fallacy/">Ecological Fallacy</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8395" class="elementor elementor-8395">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-6e3b089 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6e3b089" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="4429" class="elementor elementor-4429">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-7f87429 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f87429" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-db31a11" data-id="db31a11" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2a06ed5" data-id="2a06ed5" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-d608b15 elementor-widget elementor-widget-text-editor" data-id="d608b15" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-7326137 elementor-widget elementor-widget-text-editor" data-id="7326137" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Partial Correlation is the correlation between a pair of variables after adjusting for the effect of a third.</p>						</div>
+							<p>The Ecological Fallacy is a phenomenon that occurs when a researcher draws conclusions based on aggregate data, rather than individual-level information. This type of fallacy can lead to erroneous interpretations of the underlying relationships between variables and can have important implications, in particular when making decisions about public policy or social interventions.&nbsp;</p>
+<p>At its core, ecological fallacy is an issue of scale: while it is often easy to draw conclusions from aggregate data, individual-level data may present different patterns. <b>Aggregate data</b> is data collected at a higher level of analysis (e.g., city-wide or country-wide). In contrast, <b>individual-level data</b> refers to information collected from each person who was studied (e.g., survey responses or medical records). For example, say that researchers are interested in understanding how average income relates to voting for a particular political candidate nationally. If they use aggregate data, such as national survey results showing that people with high incomes tend to support the candidate more than those with lower incomes, it might be assumed that this pattern holds true for any individual person at any given income level.&nbsp;</p>
+<p>However, this assumption could be off the mark; when looking at individual-level income information it may be seen that there actually isn&#8217;t much of a correlation between income and voting preference at an individual level &#8211; i.e., people with low incomes might still prefer the same candidate as those with high incomes even though overall the high-income group prefers them more than the low-income group does. In addition to making incorrect conclusions about relationships between variables, ecological fallacy can also lead researchers to miss important differences among individuals within certain demographic characteristics or groups – for instance, if researchers are studying health outcomes in a city but only look at aggregate health outcomes across all people living in the city instead of considering specific factors like race or gender that could affect health outcomes differently amongst different groups.&nbsp;&nbsp;</p>
+<h3><b>Summary</b></h3>
+<p>Overall then, ecological fallacy highlights the importance of carefully considering scale when drawing inferences from research findings – if possible it is generally best practice to use both aggregate and individual level data whenever possible so as to get a better sense of any underlying trends and potential complexities within them. Doing so will help ensure that research findings are more accurate and meaningful and minimize potential pitfalls like ecological fallacy which can result in incorrect conclusions being drawn from otherwise valid studies.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/partial-correlation/">Partial Correlation</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+		<p>The post <a rel="nofollow" href="/ecological-fallacy/">Ecological Fallacy</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Partial Autocorrelation</title>
-		<link>/partial-autocorrelation/</link>
+		<title>Eberhardt’s Statistic</title>
+		<link>/eberhardts-statistic/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Wed, 14 Sep 2022 11:04:22 +0000</pubDate>
+		<pubDate>Tue, 02 Aug 2022 11:43:14 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<category><![CDATA[Autocorrelation]]></category>
-		<category><![CDATA[data as a second language]]></category>
-		<category><![CDATA[Partial Autocorrelation]]></category>
-		<guid isPermaLink="false">/?p=8389</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=4420</guid>
 
-					<description><![CDATA[<p>Partial Autocorrelation is a measure of the correlation between the observations a particular number of time units apart in a time series, after controlling for the effects of observations at intermediate time points.</p>
-<p>The post <a rel="nofollow" href="/partial-autocorrelation/">Partial Autocorrelation</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+					<description><![CDATA[<p>Eberhardt&#8217;s statistic is a metric used to measure the effectiveness of a marketing campaign. It was first introduced in 1997 by Professor Jeffrey Eberhardt, who believed that traditional methods of measuring success, such as return on investment (ROI) and cost per exposure (CPE), failed to capture the full impact of marketing efforts. To address this [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/eberhardts-statistic/">Eberhardt’s Statistic</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8389" class="elementor elementor-8389">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-a6e7fd9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a6e7fd9" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="4420" class="elementor elementor-4420">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-0d445ef elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0d445ef" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f29aadb" data-id="f29aadb" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3512c19" data-id="3512c19" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c635bcb elementor-widget elementor-widget-text-editor" data-id="c635bcb" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-a0c158d elementor-widget elementor-widget-text-editor" data-id="a0c158d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Partial Autocorrelation is a measure of the correlation between the observations a particular number of time units apart in a time series, after controlling for the effects of observations at intermediate time points.</p>						</div>
+							<p>Eberhardt&#8217;s statistic is a metric used to measure the effectiveness of a marketing campaign. It was first introduced in 1997 by Professor Jeffrey Eberhardt, who believed that traditional methods of measuring success, such as return on investment (ROI) and cost per exposure (CPE), failed to capture the full impact of marketing efforts. To address this issue, he developed a comprehensive model for quantifying advertising and promotional results.</p>
+<h3><b>Factors in Eberhardt Statistic</b></h3>
+<p>The Eberhardt statistic measures the cost-effectiveness of advertising campaigns by taking into account three main factors: consumer response rate, media allure, and market penetration. The consumer response rate measures how many people are exposed to an advertisement or promotion and then take action in response to it. Media allure is the appeal of an advertisement or promotion as measured by its reach and frequency. Finally, market penetration gauges how far-reaching a campaign has been by analyzing overall consumer awareness in the target market. These three factors are then combined into one metric that provides an accurate representation of a campaign’s performance.&nbsp;</p>
+<p>This allows marketers to better evaluate the success or failure of their initiatives across different channels and regions. By using this metric, marketers can make more informed decisions about where they should allocate their resources more efficiently and effectively. In addition to providing data on marketing performance, this metric also helps identify areas for improvement within campaigns. For example, if a company notices that its consumer response rate is low but its media allure high, it may need to alter its marketing strategy in order to better persuade consumers to take action after being exposed to an advertisement or promotion. Similarly, if its market penetration is low but its media allure is high, then the company may need to expand its reach into new markets in order for consumers there to become aware of its products or services.&nbsp;</p>
+<h3><b>Summary</b></h3>
+<p>Overall, Eberhardt’s statistic provides valuable insight into what works best when it comes to marketing campaigns so that companies can maximize their ROI while simultaneously growing their customer base over time. With this tool at their disposal, marketers have access to more detailed information than ever before regarding their campaign performance—allowing them to make more informed decisions when it comes time to allocate resources and plan future initiatives accordingly.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/partial-autocorrelation/">Partial Autocorrelation</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+		<p>The post <a rel="nofollow" href="/eberhardts-statistic/">Eberhardt’s Statistic</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Parsimony Principle</title>
-		<link>/parsimony-principle/</link>
+		<title>Dual System Estimates</title>
+		<link>/dual-system-estimates/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Wed, 14 Sep 2022 11:00:03 +0000</pubDate>
+		<pubDate>Tue, 02 Aug 2022 11:40:57 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<category><![CDATA[data as a second language]]></category>
-		<category><![CDATA[Parsimony]]></category>
-		<category><![CDATA[Parsimony Principle]]></category>
-		<guid isPermaLink="false">/?p=8382</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=4411</guid>
 
-					<description><![CDATA[<p>Parsimony Principle is the general principle that among competing models, all of which provide an adequate fit for a set of data, the one with the fewest parameters is to be preferred.</p>
-<p>The post <a rel="nofollow" href="/parsimony-principle/">Parsimony Principle</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+					<description><![CDATA[<p>Dual system estimates are a type of cost-benefit analysis used to assess the value of different decision options by comparing their costs and benefits. It involves two separate systems: the financial system, which focuses on monetary costs and benefits, and the non-financial system, which considers social, environmental, legal and other non-monetary impacts that are not [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/dual-system-estimates/">Dual System Estimates</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8382" class="elementor elementor-8382">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-835f3c7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="835f3c7" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="4411" class="elementor elementor-4411">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-91003d6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="91003d6" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0d66f37" data-id="0d66f37" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9814a54" data-id="9814a54" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-aee9cfd elementor-widget elementor-widget-text-editor" data-id="aee9cfd" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-92c9efd elementor-widget elementor-widget-text-editor" data-id="92c9efd" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Parsimony Principle is the general principle that among competing models, all of which provide an adequate fit for a set of data, the one with the fewest parameters is to be preferred.</p>						</div>
+							<p>Dual system estimates are a type of cost-benefit analysis used to assess the value of different decision options by comparing their costs and benefits. It involves two separate systems: the financial system, which focuses on monetary costs and benefits, and the non-financial system, which considers social, environmental, legal and other non-monetary impacts that are not typically included in traditional cost-benefit analysis. By combining both systems, dual system estimates make it possible to better assess the overall value of a decision option than with either system alone.&nbsp;</p>
+<p>Dual system estimates begin by first quantifying the measurable costs and benefits associated with each decision option under consideration. This includes assigning a dollar value to all expected financial gains or losses from implementing a particular project or policy. For example, when evaluating whether to build an additional school in a community, one would need to consider the cost of constructing the school building; any income generated from increased student enrollments; and any taxes or fees collected from tuition payments. The non-financial component of dual system estimates takes into account social, environmental, legal and other intangible factors that can affect decision making but are difficult to quantify financially. These include impacts such as air or water quality improvements; public health benefits; changes in employment levels due to automation; potential cultural shifts resulting from new technology adoption; or even improved morale among employees due to job satisfaction gains.&nbsp;</p>
+<p>Although these indirect effects may be difficult to monetize accurately, they should still be considered when weighing available options because they can have real impacts on society. In addition to considering direct costs and benefits associated with each option under consideration, dual system estimates also factor in long-term implications for future generations by incorporating discount rates into calculations of present economic gains or losses versus future returns. This adjustment helps ensure decisions are made with consideration for how those choices will impact both current stakeholders as well as future ones.&nbsp;</p>
+<p>Overall, dual system estimates provide an important tool for assessing decision alternatives based on their combined financial and non-financial impacts while also taking into account their potential effects on future generations. By considering both money values alongside qualitative considerations such as community sentiment or environmental outcomes, organizations can make more informed decisions that achieve greater benefit for all stakeholders involved while minimizing unintended consequences over time.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/parsimony-principle/">Parsimony Principle</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+		<p>The post <a rel="nofollow" href="/dual-system-estimates/">Dual System Estimates</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Parking lot Test</title>
-		<link>/parking-lot-test/</link>
+		<title>Dropout</title>
+		<link>/dropout/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Wed, 14 Sep 2022 10:57:06 +0000</pubDate>
+		<pubDate>Tue, 02 Aug 2022 11:38:35 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=8374</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=4402</guid>
 
-					<description><![CDATA[<p>A test for assessing the quality of random number generators.</p>
-<p>The post <a rel="nofollow" href="/parking-lot-test/">Parking lot Test</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+					<description><![CDATA[<p>Dropout is a regularization technique used in machine learning and deep learning to reduce overfitting. It works by randomly dropping neurons from the neural network during training, which forces the model to learn more generalizable representations of the data and reduces the likelihood of memorizing data. This is especially useful when training deep neural networks [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/dropout/">Dropout</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8374" class="elementor elementor-8374">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-4b5bf73 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4b5bf73" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="4402" class="elementor elementor-4402">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-0e3bede elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0e3bede" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bd18875" data-id="bd18875" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-89f9f54" data-id="89f9f54" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-e2f87ba elementor-widget elementor-widget-text-editor" data-id="e2f87ba" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-c75f616 elementor-widget elementor-widget-text-editor" data-id="c75f616" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>A test for assessing the quality of random number generators.</p>						</div>
+							<p>Dropout is a regularization technique used in machine learning and deep learning to reduce overfitting. It works by randomly dropping neurons from the neural network during training, which forces the model to learn more generalizable representations of the data and reduces the likelihood of memorizing data. This is especially useful when training deep neural networks on small datasets, as it can help prevent them from overfitting and resulting in better performance on unseen data.&nbsp;</p>
+<p>Dropout was first proposed by Geoffrey Hinton et al. in 2012. It works by randomly ignoring a fraction of neurons (also known as units or activation functions) for each training step, thereby preventing them from updating their weights during backpropagation. This effectively reduces the number of neurons available to update weights, thus reducing complexity and helping to avoid local minima. The value of this technique lies in its ability to reduce overfitting without significantly increasing training time or requiring any changes to the network architecture.</p>
+<h3><b>Benefits of Dropout&nbsp;</b></h3>
+<p>In addition to reducing overfitting, dropout also has a variety of other benefits including improving generalization, reducing co-adaptation among features and promoting sparse representations. While traditional methods such as early stopping with cross validation have been used for regularization in machine learning for decades, Dropout is often considered more effective because it is applied directly at the neuron level, allowing it to control how much influence any one neuron has during training. Dropout can be implemented either manually or using software libraries such as TensorFlow or Keras. When manually coding a model with dropout layers, users must specify what fraction of neurons they want dropped out as well as which layers they want dropout applied to. This can be an iterative process and requires some experimentation before finding optimal values that improve performance without significantly impacting accuracy or precision on validation sets or unseen test data points.</p>
+<h3><b>Summary</b></h3>
+<p>Overall, dropout is an important tool for preventing overfitting when training deep learning models on smaller datasets where traditional methods like early stopping may not be enough to sufficiently regularize the model’s weights and biases and control for variance across different subsets of data points when evaluating accuracy and precision scores on unseen test sets. Its application is often iterative since there are many different configurations and parameters that may need tweaking before finding optimal values that result in improved performance metrics without sacrificing accuracy or precision scores on validation sets or unseen test data points.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/parking-lot-test/">Parking lot Test</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+		<p>The post <a rel="nofollow" href="/dropout/">Dropout</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Pareto Plot</title>
-		<link>/pareto-plot/</link>
+		<title>Dispersion</title>
+		<link>/dispersion/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Wed, 14 Sep 2022 10:55:30 +0000</pubDate>
+		<pubDate>Tue, 02 Aug 2022 11:35:19 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=8367</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=4393</guid>
 
-					<description><![CDATA[<p>A bar chart with the bars ordered according to decreasing frequency enhanced by a line joining points above each bar giving the cumulative frequency.</p>
-<p>The post <a rel="nofollow" href="/pareto-plot/">Pareto Plot</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+					<description><![CDATA[<p>Dispersion, also known as variance, scatter or dispersion, is a measure of the spread of a dataset around its mean or average. It is a statistical measure that describes how much the individual elements in a given dataset vary from the average value. In other words, it is a measure of variability within a dataset. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/dispersion/">Dispersion</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8367" class="elementor elementor-8367">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-e4b0db5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e4b0db5" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="4393" class="elementor elementor-4393">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-9eae561 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9eae561" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-61bb862" data-id="61bb862" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-24f0a01" data-id="24f0a01" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c015f62 elementor-widget elementor-widget-text-editor" data-id="c015f62" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-de4dc44 elementor-widget elementor-widget-text-editor" data-id="de4dc44" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>A bar chart with the bars ordered according to decreasing frequency enhanced by a line joining points above each bar giving the cumulative frequency.</p>						</div>
+							<p>Dispersion, also known as variance, scatter or dispersion, is a measure of the spread of a dataset around its mean or average. It is a statistical measure that describes how much the individual elements in a given dataset vary from the average value. In other words, it is a measure of variability within a dataset.</p>
+<h3><b>Commonly Used Measure of Dispersion</b></h3>
+<p>The most commonly used measure of dispersion is the standard deviation, which is calculated by taking the square root of the variance. The <b>variance</b> is calculated by taking the average of all differences between each data point and the mean value (the average). The larger this calculation, the more disperse or scattered the data points are from each other and thus the higher the dispersion or variability. In addition to <b>standard deviation</b> and variance, there are several other measures of dispersion including range, interquartile range (IQR), mean absolute deviation (MAD), coefficient of variation (CV), as well as skewness and kurtosis for normal distributions.&nbsp;</p>
+<p>Range measures simply calculate how much difference there is between max and min values in a given dataset while IQR looks at quartiles within a dataset for comparison between groups. MAD measures how far datasets deviate from their median values, CV compares variance to mean values in order to determine relative size variations among different datasets and skewness and kurtosis analyze normal distributions to assess potential outliers or other anomalies that may not be explained by standard deviations alone.&nbsp;</p>
+<h3><b>Uses of Dispersion</b></h3>
+<p>Dispersion has many uses in statistics, mathematics and economics including analysis of probability distributions, hypothesis testing, and analysis of trends over time, regression analysis as well as assessing risk profiles in investments/finance/insurance industries. It can also be used to better understand population behavior patterns and how changes in one variable influence another related variable’s behavior over time. For example, an increase in income may lead to an increase in spending which could be studied with dispersion metrics such as standard deviation and IQR to better understand these changes over time.</p>
+<h3><b>Conclusion</b></h3>
+<p>Overall understanding dispersions helps researchers gain insights into where exactly data points lie compared to one another as well as identify potential outliers when analyzing large datasets. This information can then be leveraged to make better decisions based on correlations found between variables or draw conclusions about the populations being studied. Dispersion should always be considered when performing any type of statistical analysis in order to get accurate results that can actually be applied in real-world scenarios.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/pareto-plot/">Pareto Plot</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+		<p>The post <a rel="nofollow" href="/dispersion/">Dispersion</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>Parametric Methods</title>
-		<link>/parametric-methods/</link>
+		<title>Discriminant Analysis</title>
+		<link>/discriminant-analysis/</link>
 		
 		<dc:creator><![CDATA[learndsl]]></dc:creator>
-		<pubDate>Wed, 14 Sep 2022 10:51:41 +0000</pubDate>
+		<pubDate>Tue, 02 Aug 2022 11:32:52 +0000</pubDate>
 				<category><![CDATA[Dictionary Definition]]></category>
-		<guid isPermaLink="false">/?p=8360</guid>
+		<guid isPermaLink="false">https://learndsl.wpcomstaging.com/?p=4384</guid>
 
-					<description><![CDATA[<p>Procedures for testing hypotheses about parameters in a population described by a specified distributional form, often, a normal distribution. Student’s t test is an example of such a method.</p>
-<p>The post <a rel="nofollow" href="/parametric-methods/">Parametric Methods</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+					<description><![CDATA[<p>Discriminant analysis is a predictive modelling technique used to identify relationships between variables and the classifications of outcomes. It is often applied in cases where there is a need to differentiate among two or more groups of observations, for example in determining whether a customer will respond positively or negatively to a marketing campaign; or, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/discriminant-analysis/">Discriminant Analysis</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="8360" class="elementor elementor-8360">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-45aebc6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="45aebc6" data-element_type="section">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="4384" class="elementor elementor-4384">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-b214078 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b214078" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e352051" data-id="e352051" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9476ae5" data-id="9476ae5" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-f9aab0f elementor-widget elementor-widget-text-editor" data-id="f9aab0f" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-c5241b6 elementor-widget elementor-widget-text-editor" data-id="c5241b6" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Procedures for testing hypotheses about parameters in a population described by a specified distributional form, often, a normal distribution. Student’s t test is an example of such a method.</p>						</div>
+							<p>Discriminant analysis is a predictive modelling technique used to identify relationships between variables and the classifications of outcomes. It is often applied in cases where there is a need to differentiate among two or more groups of observations, for example in determining whether a customer will respond positively or negatively to a marketing campaign; or, predicting which group an individual belongs to based on their attributes and characteristics.</p>
+<h3><b>Uses of Discriminant Analysis&nbsp;</b></h3>
+<p>Discriminant analysis can be used for both classification and prediction purposes. In classification tasks, it can help classify new observations into one of two (or more) possible types, like whether someone will buy a product or not.&nbsp; In prediction tasks, it can provide information about which factors are most important for predicting the outcome. For example, given data about customers and their purchases, discriminant analysis may reveal which demographic factors (e.g., age, gender) are most important for predicting customer loyalty or future purchases.&nbsp;</p>
+<h3><b>Working of Discriminant Analysis</b></h3>
+<p>The technique works by looking at differences in the mean values and covariance matrices of different groups of data points. Discriminant analysis looks at how different sets of independent variables (such as income level or gender) affect the dependent variable (such as purchase decisions). It then uses this information to draw conclusions about which independent variables are most important in predicting the dependent variable. Discriminant analysis can also quantify how likely each observation is to belong to a particular group by measuring how much its values deviate from the group’s mean value on each variable used in the analysis. The best-fit line created through discriminant analysis allows researchers to accurately predict what type of group an observation falls into with greater accuracy than simply looking at single attribute values alone.&nbsp;</p>
+<p>In addition to its applications in marketing research and other fields that require data classification and prediction tasks, discriminant analysis has also been used in psychology research for test validity studies, such as studies that examine how well different tests measure certain traits or abilities across multiple populations. It can also be used to explore differences between populations on psychological traits like personality type or intelligence level – making it an invaluable tool for researchers who seek to understand behaviour better and improve educational practices accordingly.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 							</div>
-		<p>The post <a rel="nofollow" href="/parametric-methods/">Parametric Methods</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+		<p>The post <a rel="nofollow" href="/discriminant-analysis/">Discriminant Analysis</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
 ]]></content:encoded>
 					
 		

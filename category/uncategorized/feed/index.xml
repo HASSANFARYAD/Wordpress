@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Data as a Second Language</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 27 Sep 2022 09:34:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/07/cropped-DSL_Icon_Purple-32x32.png</url>
+	<title>Uncategorized &#8211; Data as a Second Language</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Automated Machine Learning Tools</title>
+		<link>/automated-machine-learning-tools/</link>
+		
+		<dc:creator><![CDATA[learndsl]]></dc:creator>
+		<pubDate>Sun, 14 Feb 2021 16:10:24 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://zakra-simple-blog.sites.qsandbox.com/?p=492</guid>
+
+					<description><![CDATA[<p>By using most of the modelling functions required to develop and implement machine learning models, automated learning enables business users to apply machine learning solutions more easily. Introduction By using most of the modelling functions required to develop and implement machine learning models, automated learning enables business users to apply machine learning solutions more easily, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/automated-machine-learning-tools/">Automated Machine Learning Tools</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="492" class="elementor elementor-492">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-f52c7e4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f52c7e4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7186db69" data-id="7186db69" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b14476a elementor-widget elementor-widget-text-editor" data-id="b14476a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.10.2 - 29-01-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><!-- wp:paragraph --></p>
+<p>By using most of the modelling functions required to develop and implement machine learning models, automated learning enables business users to apply machine learning solutions more easily.</p>
+<h1><strong>Introduction</strong></h1>
+<h1><a name="_Toc81603346"></a></h1>
+<p>By using most of the modelling functions required to develop and implement machine learning models, automated learning enables business users to apply machine learning solutions more easily, thus allowing organizational data scientists to focus on more complex problems. These tools, also known as AutoML<a href="#_ftn1" name="_ftnref1">[1]</a> tools, improve the monitored, predictable learning algorithms of a given database machine. Many AutoML tools are designed to work with structured table data, such as a data table.</p>
+<p>In 1959, Arthur Samuel<a href="#_ftn2" name="_ftnref2">[2]</a> described machine learning as a computer-assisted reading ability. By doing this, this means finding an algorithm rather than extracting patterns from an existing data set and then using these patterns to create a predictive model that will effectively optimize new data. Since then, a wide range of machine learning has been developed, giving scientists and engineers a wide range of options, and helping them build amazing applications.</p>
+<p>Some of the companies that offer these tools are as follows.</p>
+<ul>
+<li>DataRobot</li>
+<li>Amazon Sagemaker</li>
+<li>Google AutoML</li>
+</ul>
+<h1><a name="_Toc81603347"></a><strong>DataRobot</strong></h1>
+<p><a href="https://amzn.to/3SxMq5O">DataRobot </a>developed automated learning that was a completely new category of software as a result. They have invested more than 1.4 million hours of innovative engineering and scientific practices in this market-leading product. Here, the Automated Machine Learning product supports all the steps needed to prepare, build, deploy, monitor, and maintain powerful AI applications on a business scale. <a href="https://amzn.to/3SxMq5O">DataRobot</a> provides fully descriptive learning tools using visual interpersonal comprehension and automated model documentation with plans that describe each step of the modeling process and the algorithms used. You can test any model using our Lift Chart<a href="#_ftn3" name="_ftnref3">[3]</a>, ROC Curve<a href="#_ftn4" name="_ftnref4">[4]</a>, Confusion Matrix<a href="#_ftn5" name="_ftnref5">[5]</a>, and more.</p>
+<h1><a name="_Toc81603348"></a><strong>Amazon Sagemaker</strong></h1>
+<p>Speaking of&nbsp;<a href="https://amzn.to/3R9DAtB">Amazon Sagemaker</a>, it uses a single API call or a few clicks in Amazon SageMaker Studio. SageMaker Autopilot starts by checking your dataset and then uses the number of participants to find the right combination of pre-processing data steps, machine learning algorithms, and hyperparameters. After that, it uses this combination to train the Inference Pipeline, which you can easily use either in real-time storage or in batch use. As is often the case with <a href="https://amzn.to/3R9DAtB">Amazon SageMaker</a>, all of this happens on a fully managed platform.</p>
+<h1><a name="_Toc81603349"></a><strong>Google AutoML</strong></h1>
+<p>This tool empowers engineers with limited mechanical experience to train high-quality models tailored to the needs of their business. <a href="https://amzn.to/3SdQYON">Google AutoML</a> is chosen by a wide range of people as it enhances data from your data with Google Cloud machine learning capabilities and advanced analytics capabilities. It works in a clean cloud in the industry. The electricity used to launch Google Cloud products and services is aligned with 100% renewable energy. Additionally, Google Cloud protects your data, applications, infrastructure, and customers from fraud, spam, and harassment with the same infrastructure and security services used by Google. Google Cloud network, data storage, and computer services offer encryption of data, encryption at leisure, travel, and use. Advanced security tools support privacy and data security.</p>
+<h1><a name="_Toc81603350"></a><strong>Conclusion</strong></h1>
+<p>Automated machine learning tools enhance the productivity of data professionals by performing any repetitive tasks related to ML and help them focus on other issues. They also minimize human errors in ML models that occur mainly due to manual actions. They can make machine learning accessible to all users, thereby improving the power-sharing process.</p>
+<p>Technology is maturing and business organizations can use it to their advantage in the following ways:</p>
+<ul>
+<li>Real-time Business Decision Making.</li>
+<li>Finishing Handicrafts.</li>
+<li>Improving network security and performance.</li>
+<li>Developed Models and Businesses.</li>
+<li>Reducing Operating Costs.</li>
+</ul>
+<p>Therefore, it is time to start thinking about it and how it can simplify the work of data scientist. It will save you a lot of time in predicting the best algorithm and problem-solving parameters.</p>
+<p><a href="#_ftnref1" name="_ftn1">[1]</a> Automated machine learning (AutoML) is a method that automates the application of machine learning (ML) models to real-world situations.</p>
+<p><a href="#_ftnref2" name="_ftn2">[2]</a> Arthur Lee Samuel was a founder in the fields of computer games and AI in the United States of America. In 1959, he introduced the term &#8220;machine learning.&#8221;</p>
+<p><a href="#_ftnref3" name="_ftn3">[3]</a> A lift chart visualises the progress that a mining model makes when compared to a random guess and quantifies the improvement in terms of a lift score.</p>
+<p><a href="#_ftnref4" name="_ftn4">[4]</a> A receiver operating characteristic curve (ROC curve) is a graph that depicts a classification model&#8217;s performance across all categorization thresholds.</p>
+<p><a href="#_ftnref5" name="_ftn5">[5]</a> It&nbsp;is a special type of table arrangement that enables visualisation of an algorithm&#8217;s performance, often a supervised learning algorithm.</p>
+<p><!-- /wp:paragraph --></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		<p>The post <a rel="nofollow" href="/automated-machine-learning-tools/">Automated Machine Learning Tools</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Perfect Data Science Laptop in 2021</title>
+		<link>/the-perfect-data-science-laptop-in-2021/</link>
+		
+		<dc:creator><![CDATA[learndsl]]></dc:creator>
+		<pubDate>Thu, 04 Feb 2021 06:45:44 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://zakra-simple-blog.sites.qsandbox.com/?p=35</guid>
+
+					<description><![CDATA[<p>One of the most overlooked aspects when starting to learn data science is which laptop to choose. This is a major choice to think about as many of the techniques that are used when training machine learning models are going to be dependant on the capabilities of the equipment you choose. Needless is to say [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/the-perfect-data-science-laptop-in-2021/">The Perfect Data Science Laptop in 2021</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="562" class="elementor elementor-562">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-70e27934 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="70e27934" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8c7ace" data-id="8c7ace" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-55a6f3d2 elementor-widget elementor-widget-text-editor" data-id="55a6f3d2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><!-- wp:paragraph --><br>One of the most overlooked aspects when starting to learn data science is which laptop to choose. This is a major choice to think about as many of the techniques that are used when training machine learning models are going to be dependant on the capabilities of the equipment you choose. Needless is to say that this can become very easily a daunting task as we start to enumerate the things that we need to take into account, as well as the myriad of possibilities that are out there to fill our needs. The basic components that we need to take a look at are the processor, the RAM, Storage, and the GPU.</p>
+<h1>The Processor: Need for Speed</h1>
+<p>The processor is the most crucial part of our laptop as it will be the component that will handle our computations. There are several considerations in which we need to look at this, as the performance will be heavily influenced by the type of architecture (x86 or ARM), the number of cores (either physical or virtual), cache memory, and brand. The first consideration about the choice of processor is that it’s not going to be the same to choose between an x86 or ARM architecture. ARM architecture was originally designed for mobile devices to optimize energy usage, but eventually got into laptops and most manufacturers are jumping into that trend. The most noticeable ARM processor that we consider for data science applications is the M2 processor that is being used in the latest MacBooks.&nbsp; Given the difference in architecture, an internal optimization process is required to be compatible with applications designed for processors with x86.&nbsp;</p>
+<p>In some applications, this will slow down the performance of the processor, but in general, the performance comparison of M1and M2 chips used in MacBook Air and <a href="https://amzn.to/3r1w3CN">MacBook Pro laptops </a>shows that the performance is comparable with the flagship processors from Intel like the I7 1165g7 or the AMD Ryzen 5950x. Great gaming laptops like the Razer Blade 14 use AMD Ryzen 9 5900HX processors which can have options for 8 Cores allowing up to 16 Threads, with a 3.3GHz base clock speed and a 4.6GHz max boost that can be used during heavy computations.&nbsp;</p>
+<p>In the same range of processing power but using Intel we can find the <a href="https://amzn.to/3UP8Z83">Dell Alienware X17</a>, which has an 11th Gen Intel i7 11800H with 8 cores, a massive 24MB L3 cache, and up to 4.6GHz of clock speed. Besides the raw clock speed and the number of threads used in a processor, we should also consider the number of cores and an available number of threads that the processor can manage. In data science and data engineering in general, some operations can be parallelized using multi-thread processes, which means that each core of the processor, either physical or simulated, will receive a chunk of the data to work on. After the processing is done, we can then retrieve the results and aggregate them, which can massively increase the speed of our processes, especially when dealing with complicated feature engineering on big datasets, or when we work with unstructured data.&nbsp;</p>
+<p>Finally, the other important aspect to consider is the cache memory. Cache memory is used in the processor as an intermediate memory between RAM and the actual processing. This memory is measured in MB and the least that we can consider is 8 MB, which is a threshold greatly surpassed in processors like the Intel i9 and i7 which have 24 MB of cache memory. Now that we have a clear understanding of our requirements for the processor, we can move to the next requirement.</p>
+<h1>The RAM: At the tip of your fingers</h1>
+<p>When tackling common data science courses most of the time you will spend quite a lot of time working with tools like Pandas, an excellent python library that is used for tabular data. The problem is that this library has one big bottleneck, all the information that we read using it is loaded into the RAM. This might be very problematic when we are working with files in the size of gigabytes as we will need to work on chunks rather than with the entire dataset. This is not the only task that will be limited to the amount of available RAM. Tasks like deep learning generally imply a training step in which the algorithm is exposed to data. The bigger the size of data that can be exposed to at the same time will dictate how much time the entire learning process will take. After mentioning this you might be already asking yourself which is the right amount of RAM that my laptop should have, and which are other things to take into account. First of all, we need to say that in 2021 the minimum amount of RAM that your laptop should have is 8 GB. I might say that is 4 GB, but just the operating system will eat 3 GB, leaving you just 1 GB to work with, so let’s keep the minimum at 8. If you are just starting and you are a student on a budget, you have good options like the Lenovo Laptop IdeaPad 5, which already comes with 16 Gb of RAM and a great i7 processor. It is also important to the data transfer speed of the RAM, which at least should be 2666 MHz. Most recent DDR-4 RAMs will go as much as 3200 MHz of bus speed and logically, as faster the bus speed, the faster the processing will be.</p>
+<h1>The Storage: Size and Speed</h1>
+<p>Storage is a topic that is commonly relegated while discussing the requirements of Data Science laptops, although it has a great impact. Let’s get back to the example that we have mentioned before, which was reading big files for machine learning and analysis of tabular data. One of how we can overcome this bottleneck is by using Dask, a python library that reads the data directly from the storage, rather than loading it into memory. So it all comes up with the strategy you choose to deal with larger files. We can come up with a strategy in which we process data in batches, reading from the local storage, therefore, the choices we make about the storage and the read speed will have a great impact on performance. So what are the things to consider and the options we have in terms of storage? Most important than the amount of storage itself is the technology of the storage. It is highly recommended to use SSD storage as the speed at which it will read the data will be up to 10 times faster than a common HDD. If the laptop you’ve selected doesn’t have an SSD hard drive you can update it easily. A good option in case that happens would be the <a href="https://amzn.to/3UNCQO6">Kingston SA400S37/480G</a> A400 which has 480 GB which is more than enough. If you want to go further, you can get the <a href="https://amzn.to/3xPDtgi">Samsung 870</a> Qvo, which has 1TB and a good price-storage ratio. If you want all the power available, you can choose <a href="https://amzn.to/3LFVtz7">Kingston NV1 NVMe</a>, which is 4 times faster than common SSD hard drives.</p>
+<h1>The GPU: Enabling Deep Learning</h1>
+<p>Most deep learning applications require intensive computation during training. To speed things up, developers have enabled the option of using Graphics Cards to accelerate the process of training. With the introduction of CUDA, which is a technology that can be used in Windows and Linux machines, we can speed up the training in most of the deep learning frameworks. While in practice there are only two manufacturers of graphic cards which are Nvidia and AMD, it would be recommendable to get an Nvidia GPU because CUDA was developed by Nvidia, and it only runs on their GPUs. So if you are planning to undertake deep learning tasks it is advisable to start considering Nvidia GPUs from the <a href="https://amzn.to/3DSlyJI">GTX 1650</a> onwards. The <a href="https://amzn.to/3DVEdnJ">MSI GF75</a> is a good option when you are on a budget. It comes with a <a href="https://amzn.to/3DSlyJI">GTX 1650</a>, an Intel i7, and 16 GB RAM. If you want to go further the <a href="https://amzn.to/3SsOegj">ASUS ROG Zephyrus S15 GX502LWS-HF020T</a> comes with a powerful Intel Core i7-10750H processor with an NVIDIA GeForce RTX 2070 SUPER graphics card, a great 32GB DDR4 RAM, and a 1TB SSD.</p>
+<h1>Conclusion</h1>
+<p>At the end of the day, the best way to plan your Data Science notebook is to understand the future requirements that you will need to tackle. The answer lies in a balance between your needs and the budget that you might be working it. Nevertheless, there are good options out there, and it’s important to choose them wisely, as they will impact your performance in your work and career. As a rule of thumb, pick the best processor and the best RAM possible, then select a good SSD and when possible, an Nvidia GPU. After that, you will be on the right track to succeed in your data science projects.</p>
+<p><!-- /wp:paragraph --></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		<p>The post <a rel="nofollow" href="/the-perfect-data-science-laptop-in-2021/">The Perfect Data Science Laptop in 2021</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Best Universities in U.S to study Data Science in 2021</title>
+		<link>/best-universities-in-u-s-to-study-data-science-in-2021/</link>
+		
+		<dc:creator><![CDATA[learndsl]]></dc:creator>
+		<pubDate>Thu, 04 Feb 2021 06:45:41 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://zakra-simple-blog.sites.qsandbox.com/?p=34</guid>
+
+					<description><![CDATA[<p>In today’s world, Data Science has become a buzzing keyword and many large enterprises and industry leaders are shifting their focus towards Artificial Intelligence, Machine Learning or Data Sciences. This paradigm shift in industry has created a huge demand for Data Scientists and they have more attractive salary packages than traditional software engineers. According to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/best-universities-in-u-s-to-study-data-science-in-2021/">Best Universities in U.S to study Data Science in 2021</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="34" class="elementor elementor-34">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-7ec60889 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7ec60889" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-669261b2" data-id="669261b2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2194ea88 elementor-widget elementor-widget-text-editor" data-id="2194ea88" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><!-- wp:paragraph --></p>
+<p>In today’s world, Data Science has become a buzzing keyword and many large enterprises and industry leaders are shifting their focus towards Artificial Intelligence, Machine Learning or Data Sciences. This paradigm shift in industry has created a huge demand for Data Scientists and they have more attractive salary packages than traditional software engineers. According to U.S. Bureau of Labor Statistics, an average data scientist earns $100,560 per year. While, a Java developer or any other programming language developer earns around $72,000 per year. Besides, an attractive salary package, Data Science has a lot to offer in terms of learning and innovation opportunities. Let’s dwell on the best U.S universities to study Data Sciences in 2021.</p>
+<ol>
+<li style="list-style-type: none;">
+<h3>
+<ol>
+<li><strong>Massachusetts Institute of Technology</strong></li>
+</ol>
+</h3>
+</li>
+</ol>
+<p><img decoding="async" src="/wp-content/uploads/2022/07/1.jpg"></p>
+<p></p>
+<p>Founded in 1861, Massachusetts Institute of Technology is one of the best and top-ranked university for data sciences. According to <strong>QS Ranking, </strong>MIT is the number one university for year 2021-2022. It offers both Bachelors and Masters in Data Sciences.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Undergraduate Data Sciences Degree Programs:</strong></p>
+<ul>
+<li><strong>Bachelor of Science in Computer Science, Economics, and Data Science:</strong> It is jointly offered by Department of Electrical Engineering and Computer Science and the Department of Economics. For complete requirements and roadmap of this program please click <a href="http://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/">here</a>.</li>
+</ul>
+<p><strong>Undergraduate Data Sciences Minor Programs:</strong></p>
+<ul>
+<li><strong>Minor in Statistics and Data Science</strong>: It is an interdisciplinary program offered by MIT. For complete requirements and roadmap of this program please click <a href="http://catalog.mit.edu/interdisciplinary/undergraduate-programs/minors/statistics-data-science/">here</a>.</li>
+</ul>
+<p><strong>Masters of Data Sciences Programs: </strong></p>
+<ul>
+<li><strong>MicroMasters Program in Statistics and Data Science:</strong> This course is offered by MITx and the&nbsp;MIT Institute for Data, Systems, and Society (IDSS).&nbsp;It is an <strong>online </strong>course and anyone can enroll in this program. It is specially designed for those people who want rigorous data sciences learning and hands-on experience without leaving their jobs. For complete requirements and roadmap of this program please click <a href="https://micromasters.mit.edu/ds/">here</a>.</li>
+</ul>
+<ol start="2">
+<li style="list-style-type: none;">
+<h3><ol start="2"><li><strong>Harvard University</strong></li></ol></h3>
+</li>
+</ol>
+<p><img decoding="async" src="/wp-content/uploads/2022/07/2.jpg"></p>
+<p>Another top-ranking Ivy League university with world best faculty, diverse community and carefully curated courses is Harvard University. It was founded in 1636 as Harvard college and one of the oldest university. Undoubtedly, it’s one of the most prestigious institute to fulfil your data science dreams. It offers the following courses.</p>
+<p><strong>Masters in Data Science</strong></p>
+<ul>
+<li><strong>Data Science Graduate Program:</strong> It is offered by Harvard Extension School. To secure admission in this program, your performance in two specific Harvard Extension courses plays the key role. The format of this program is <strong>online for 2021-2022. </strong>After successfully finishing this program you will earn “Master of Liberal Arts (ALM) in Extension Studies, field: Data Science” degree. For more information, related to this program please click <a href="https://extension.harvard.edu/academics/programs/data-science-graduate-program/#outcomes">here</a>.</li>
+</ul>
+<p><strong>Online Data Science Courses</strong></p>
+<ul>
+<li>Apart from full-fledged degrees, Harvard offers 17 online data science courses which are as good as data science courses. Some courses are free as well and typically takes 5-8 weeks to complete. Following are the <strong>free courses offered by Harvard. </strong>
+<ol>
+<li><a href="https://online-learning.harvard.edu/course/fundamentals-tinyml?delta=0">Fundamentals of TinyML</a></li>
+<li><a href="https://online-learning.harvard.edu/course/applications-tinyml?delta=0">Applications of TinyML</a></li>
+<li><a href="https://online-learning.harvard.edu/course/deploying-tinyml?delta=0">Deploying TinyML</a></li>
+<li><a href="https://online-learning.harvard.edu/course/introduction-digital-humanities?delta=2">Introduction to Digital Humanities</a></li>
+<li><a href="https://online-learning.harvard.edu/course/data-science-wrangling?delta=3">Data Science: Wrangling</a></li>
+<li><a href="https://online-learning.harvard.edu/course/data-science-linear-regression?delta=3">Data Science: Linear Regression</a></li>
+<li><a href="https://online-learning.harvard.edu/course/data-science-machine-learning?delta=3">Data Science: Machine Learning</a></li>
+<li><a href="https://online-learning.harvard.edu/course/data-science-capstone?delta=3">Data Science: Capstone</a></li>
+<li><a href="https://online-learning.harvard.edu/course/data-science-visualization?delta=3">Data Science: Visualization</a></li>
+<li><a href="https://online-learning.harvard.edu/course/data-science-probability?delta=2">Data Science: Probability</a></li>
+<li><a href="https://online-learning.harvard.edu/course/data-science-inference-and-modeling?delta=1">Data Science: Inference and Modeling</a></li>
+<li><a href="https://online-learning.harvard.edu/course/data-science-productivity-tools?delta=3">Data Science: Productivity Tools</a></li>
+<li><a href="https://online-learning.harvard.edu/course/data-science-r-basics?delta=3">Data Science: R Basics</a></li>
+</ol>
+</li>
+</ul>
+<p>Following are the <strong>paid Data Sciences courses</strong> offered by Harvard University.</p>
+<ol>
+<li style="list-style-type: none;">
+<ol>
+<li><a href="https://online-learning.harvard.edu/course/data-science-business?delta=0">Data Science for Business</a> ($1600, 4 weeks long)</li>
+<li><a href="https://online-learning.harvard.edu/course/designing-and-implementing-ai-solutions-health-care?delta=0">Designing and Implementing AI Solutions for Health Care</a> ($2150, 2 weeks long)</li>
+<li><a href="https://online-learning.harvard.edu/course/data-privacy-and-technology?delta=0">Data Privacy and Technology</a> ($1,600, 5 weeks long)</li>
+<li><a href="https://online-learning.harvard.edu/course/data-visualization-communicating-data-and-complex-ideas-visually?delta=0">Data Visualization: Communicating Data and Complex Ideas Visually</a> ($2150)</li>
+<li><strong>Stanford University </strong></li>
+</ol>
+</li>
+</ol>
+<p><img decoding="async" src="/wp-content/uploads/2022/07/3.jpg"></p>
+<p>Stanford University is yet another exceptional university which offers variety of options for data science learners. It is a private university and amasses almost more than 17 thousand students. Its acceptance rate is only 4% which implies that it only chooses the best out of best.</p>
+<p><strong>Undergraduate Data Science Programs:</strong></p>
+<ul>
+<li><strong>The Data Science Minor program</strong> is especially designed for those students who have major in humanities and Social Sciences but want to gain practical exposure to Data Sciences. For more information regarding this degree program please click <a href="https://statistics.stanford.edu/data-science-minor">here</a>.</li>
+</ul>
+<p><strong>Masters Programs:</strong></p>
+<ul>
+<li><strong>S. in Statistics: Data Science: </strong>This program is offered by Stanford’s Statistics School of Humanities and Sciences. This program is <strong>not offered online. </strong>For more information regarding this degree program please click <a href="https://statistics.stanford.edu/academic-programs/graduate-programs/ms-statistics-data-science">here</a>.</li>
+</ul>
+<ol start="4">
+<li style="list-style-type: none;">
+<ol start="4">
+<li><strong>Yale University</strong></li>
+</ol>
+</li>
+</ol>
+<p><img decoding="async" src="/wp-content/uploads/2021/02/s.jpg"></p>
+<p>The list would be incomplete without mentioning the third oldest Ivy League university of United States i.e. Yale University. Yale is just not an institute but also a complete brand which gives you a chance to study within a diverse community and under the mentorship of top faculty. It offers following Data Sciences programs.</p>
+<p><strong>Bachelors Program in Data Sciences: </strong></p>
+<ul>
+<li><strong>A. in Statistics and Data Science:&nbsp;</strong>This undergraduate programs is offered by Department of Statistics and Data Science. This program will give enough exposure and hands-on experience of data science for pursuing a graduate degree in data sciences. For more information, regarding this course please click <a href="http://catalog.yale.edu/ycps/subjects-of-instruction/statistics/">here</a>.</li>
+</ul>
+<p><strong>Masters and PhD Programs</strong></p>
+<ul>
+<li><strong>The terminal M.A. and M.S. programs: </strong>These programs are offered by Department of Statistics and Data Science. These programs are open for anyone outside of Yale as well. For more information, related to these programs please click <a href="https://statistics.yale.edu/academics/terminal-ma-program">here</a>.</li>
+<li><strong>D. PROGRAM: </strong>This PhD programs is also offered by Department of Statistics and Data Science. The main areas of focus are statistical theory, probability theory, information theory, bioinformatics and genetics, classification, data mining and machine learning, neural nets, network science etc. For more information, related to these programs please click <a href="https://statistics.yale.edu/academics/phd-program">here</a>.</li>
+</ul>
+<ol start="5">
+<li style="list-style-type: none;">
+<ol start="5">
+<li><strong>University of California Berkeley</strong></li>
+</ol>
+</li>
+</ol>
+<p><img decoding="async" src="/wp-content/uploads/2022/07/5.jpg"></p>
+<p>UC Berkeley is another one of the most prestigious institutes to pursue your data science interests. According to QS Ranking 2021, its rank 4<sup>th</sup> worldwide and 1<sup>st</sup> nationally. It’s a public land-grant university and has a fairly good acceptance rate i.e. 16%. It offers wide variety of undergraduate and graduate data sciences programs.</p>
+<p><strong>Undergraduate Programs</strong></p>
+<p>For undergraduate programs, UC Berkeley offers degrees both with data science as a major and a minor.</p>
+<ul>
+<li><strong>Data Science B.A. degree</strong>: It is offered as a data science major and offered by College of Letters &amp; Science. For more information, related to this programs please click <a href="https://data.berkeley.edu/academics/data-science-undergraduate-studies/data-science-major">here</a>.</li>
+<li><strong>Data Science Minor: </strong>It is also offered by College of Letters &amp; Science. You need to declare your minor and all undergraduate students (at UC Berkeley) can opt this except Data Science B.A. degree students<strong>. </strong>For more information, related to this programs please click <a href="https://data.berkeley.edu/academics/data-science-undergraduate-studies/data-science-minor">here</a><strong>.</strong></li>
+</ul>
+<p><strong>Master’s Program in Data Sciences</strong></p>
+<ul>
+<li><strong>Online Master’s in Data Science: </strong>It is an online master’s program and based on various fields including computer science, social sciences, statistics, management, and law. It provides three paths for completing this course i.e. accelerated, standard, or decelerated which students can choose as per their convenience. For more information, related to this programs please click <a href="https://ischoolonline.berkeley.edu/data-science/">here</a>.</li>
+<li><strong>Masters of Engineering &#8211; Data Science and Systems Concentration: </strong>This program is offered by Berkeley Electrical Engineering and Computer Sciences school. It is an on-campus program and typically completed in one year. For more information, related to this programs please click <a href="https://eecs.berkeley.edu/academics/graduate/industry-programs/meng">here</a>.</li>
+<li><strong>Masters of Information and Data Science: </strong>This program is offered by Berkeley School of Information. As per UC Berkeley, the program starts thrice throughout the year and applications are screened on rolling basis. For more information, related to this programs please click <a href="https://datascience.berkeley.edu/">here</a>.</li>
+<li><strong>Master of Engineering in Industrial Engineering &amp; Operations Research &#8211; Data-driven Decision Analytics Track: </strong>This program is offered by Berkeley Fung Institute for Engineering Leadership school. It is an on-campus program and taught in evening classes. For more information, related to this programs please click <a href="https://funginstitute.berkeley.edu/programs-centers/data-driven-decision-analytics/">here</a>.</li>
+</ul>
+<p><strong>Closing Thoughts:</strong></p>
+<p>We are currently living in 4<sup>th</sup> industrial revolution and due to huge volumes of data industries are inclined towards creating “value” with the help of data. So, the future belongs to data science. The data science field has a lot of employment and entrepreneurship opportunities available. So, if you have interest in mathematics, computer and statistics then you should not think twice before opting data sciences as your undergraduate, graduate or PhD option.</p>
+<p><!-- /wp:paragraph --></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		<p>The post <a rel="nofollow" href="/best-universities-in-u-s-to-study-data-science-in-2021/">Best Universities in U.S to study Data Science in 2021</a> appeared first on <a rel="nofollow" href="/">Data as a Second Language</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
