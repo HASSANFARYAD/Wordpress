@@ -2,15 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/</loc>
-		<lastmod>2023-01-29T09:30:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/the-perfect-data-science-laptop-in-2021/</loc>
-		<lastmod>2022-09-27T09:26:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/02/Best-Laptops-for-Deep-Learning-and-Machine-Learning.jpg</image:loc>
-			<image:title><![CDATA[Best-Laptops-for-Deep-Learning-and-Machine-Learning]]></image:title>
-		</image:image>
+		<lastmod>2023-02-04T11:09:55+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/automated-machine-learning-tools/</loc>
@@ -18,29 +10,6 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/02/header.jpg</image:loc>
 			<image:title><![CDATA[AI (Artificial Intelligence) concept.]]></image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>/best-universities-in-u-s-to-study-data-science-in-2021/</loc>
-		<lastmod>2022-09-27T09:34:37+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/02/Yale-University.jpg</image:loc>
-			<image:title><![CDATA[Yale University]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/02/s.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2022/07/5.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1798,6 +1767,37 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/08/Ecological-fallacy.jpg</image:loc>
 			<image:title><![CDATA[Ecological-fallacy]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>/best-universities-in-u-s-to-study-data-science-in-2021/</loc>
+		<lastmod>2023-02-04T11:09:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/02/Yale-University.jpg</image:loc>
+			<image:title><![CDATA[Yale University]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/02/s.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2022/07/5.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/the-perfect-data-science-laptop-in-2021/</loc>
+		<lastmod>2023-02-04T11:09:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/02/Best-Laptops-for-Deep-Learning-and-Machine-Learning.jpg</image:loc>
+			<image:title><![CDATA[Best-Laptops-for-Deep-Learning-and-Machine-Learning]]></image:title>
 		</image:image>
 	</url>
 </urlset>
